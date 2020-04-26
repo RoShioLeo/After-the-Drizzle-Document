@@ -25,7 +25,7 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 ## 方块
 
 * [竹匾](blocks/bamboo-tray.md)
-* [炉灶](blocks/lu-zao-stove.md)
+* [炉灶](blocks/stove.md)
   * 土灶
   * 石灶
 * 沏茶台
