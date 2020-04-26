@@ -1,6 +1,6 @@
 # 竹匾（Bamboo Tray）
 
-**竹匾（Bamboo Tray）**是一个有多种模式用于加工的方块。
+**竹匾（Bamboo Tray）** 是一个有多种模式用于加工的方块。
 
 ![&#x7AF9;&#x533E;](../.gitbook/assets/bamboo_tray.png)
 
@@ -22,7 +22,7 @@
 
 ## 模式
 
-竹匾总共有五种模式可切换，分别为**室外模式（Outdoor Mode）**、**室内模式（Indoor Mode）**、**烘焙模式（Bake Mode）**、**加工模式（Process Mode）**和**淋雨模式（In-rain Mode）**。
+竹匾总共有五种模式可切换，分别为**室外模式（Outdoor Mode）**、**室内模式（Indoor Mode）**、**烘焙模式（Bake Mode）**、**加工模式（Process Mode）** 和**淋雨模式（In-rain Mode）**。
 
 ### ![](../.gitbook/assets/outdoor_mode.png) 室外模式
 
