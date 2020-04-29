@@ -1,4 +1,4 @@
-# 竹制装饰品（Bamboo Decorations）
+# 竹制装饰品 Bamboo Decorations
 
 本模组添加了一系列竹制装饰品，由于需要介绍的内容不多，所以统一集中在该页。
 

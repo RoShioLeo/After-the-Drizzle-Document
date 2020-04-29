@@ -1,4 +1,4 @@
-# 炉灶（Stove）
+# 炉灶 Stove
 
 **炉灶（Stove）**
 是一个可以为上方方块提供热源的方块，目前分别有
@@ -6,11 +6,9 @@
 **石灶（Stone Stove）**
 两种类型。
 
- 
+![土灶](../.gitbook/assets/blocks/dirt_stove.png)
 
-![土灶](../.gitbook/assets/dirt_stove.png)
-
-![石灶](../.gitbook/assets/stone_stove.png)
+![石灶](../.gitbook/assets/blocks/stone_stove.png)
 
 ## 交互
 
@@ -26,21 +24,16 @@
 
 ## 合成
 
-![任意泥土 * 8 → 土灶 * 1](../.gitbook/assets/dirt_stove_recipe.png)
+![任意泥土 * 8 → 土灶 * 1](../.gitbook/assets/recipes/dirt_stove_recipe.png)
 
-![圆石 * 8 + 土灶 * 1 → 石灶 * 1](../.gitbook/assets/stone_stove_recipe.png)
+![圆石 * 8 + 土灶 * 1 → 石灶 * 1](../.gitbook/assets/recipes/stone_stove_recipe.png)
 
-## 效果
+## 用途
 
-燃料在不同类型的炉灶中的燃烧时间均为原版的两倍，但是不同类型的炉灶对上方提供热量的效率不同。
-
-以土灶的效率为1的话，石灶为2。
-
-这意味着在石灶上方的竹匾烘焙速度会比土灶快二分之一。
+为上方方块提供热源，可以使竹匾进入烘焙模式、煮沸白瓷壶内的冷水。
 
 ## 其他
 
-当炉灶内的灰烬变多而没有取出时，炉灶的烟也会变大。
-
-当生物站在炉灶上方时，会受伤并获得失明效果（烟熏）。
-
+- 燃料在不同类型的炉灶中的燃烧时间均为原版的两倍，但是不同类型的炉灶对上方提供热量的效率不同。以土灶的效率为1的话，石灶为2。这意味着在石灶上方的竹匾烘焙速度会比土灶快二分之一。
+- 当炉灶内的灰烬变多而没有取出时，炉灶的烟也会变大。
+- 当生物站在炉灶上方时，会受伤并获得失明效果（烟熏）。
