@@ -4,7 +4,7 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 # 前言与导航
 
-这里是**“细雨田园”（After the Drizzle）**模组的官方简体中文百科。
+这里是 **“细雨田园”（After the Drizzle）** 模组的[官方简体中文百科](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/)。
 
 你可以将该模组视为高版本下的“茶风·纪事”模组（其实就是）。
 
