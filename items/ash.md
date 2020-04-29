@@ -1,8 +1,8 @@
-# 灰烬 Ash
+# 灰烬（Ash）
 
 **灰烬（Ash）** 是通过炉灶燃烧燃料而获得一种物品，具有骨粉催熟效果。
 
-![&#x7070;&#x70EC;&#xFF08;&#x53EF;&#x80FD;&#x662F;&#x8349;&#x6728;&#x7070;&#xFF0C;&#x4E5F;&#x53EF;&#x80FD;&#x4E0D;&#x662F;&#xFF09;](../.gitbook/assets/ash.png)
+![&#x7070;&#x70EC;&#xFF08;&#x53EF;&#x80FD;&#x662F;&#x8349;&#x6728;&#x7070;&#xFF0C;&#x4E5F;&#x53EF;&#x80FD;&#x4E0D;&#x662F;&#xFF09;](https://github.com/RoitoLeonine/After-the-Drizzle-Document/tree/f09ee40743ceb9089c719ed2e07e33f650111b52/.gitbook/assets/ash.png)
 
 ## 获取
 

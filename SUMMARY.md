@@ -14,7 +14,3 @@
 
 * [灰烬（Ash）](items/ash.md)
 
-## 流体 <a id="fluids"></a>
-
-## 状态效果 <a id="effects"></a>
-
