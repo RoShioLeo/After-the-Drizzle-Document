@@ -4,11 +4,9 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 # 前言与导航
 
-![](./.gitbook/assets/atd.png)
+![](.gitbook/assets/atd.png)
 
-这里是
-**“细雨田园”（After the Drizzle）**
-模组的[官方简体中文百科](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/)。
+这里是 **“细雨田园”（After the Drizzle）** 模组的[官方简体中文百科](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/)。
 
 本模组目前正处于 Alpha 第一开发阶段，您可通过在[爱发电](https://afdian.net/@roitoleonine)赞助作者而获取提前测试资格。
 
