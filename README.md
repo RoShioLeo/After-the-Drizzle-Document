@@ -10,56 +10,75 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 **“细雨田园”（After the Drizzle）**
 模组的[官方简体中文百科](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/)。
 
-你可以将该模组视为高版本下的“茶风·纪事”模组（其实就是）。
+本模组目前正处于 Alpha 第一开发阶段，您可通过在[爱发电](https://afdian.net/@roitoleonine)赞助作者而获取提前测试资格。
 
-本模组目前正处于第一开发阶段，您可通过在[爱发电](https://afdian.net/@roitoleonine)赞助作者而获取提前测试资格。
+本模组由 Lemon Slice Studio 荣誉出品。（项目[开源地址](https://github.com/lemon-slice-studio/After-the-Drizzle)）
 
-本模组由 Lemon Slice Studio 荣誉出品（项目[开源地址](https://github.com/lemon-slice-studio/After-the-Drizzle)）。
+**作者**：RoitoLeonine（[Bilibili](https://space.bilibili.com/34398850)、[GitHub](https://github.com/RoitoLeonine)）、 Gloridifice（[Bilibili](https://space.bilibili.com/50966004/)、[GitHub](https://github.com/gloridifice)）
 
-作者：RoitoLeonine（[Bilibili](https://space.bilibili.com/34398850)、[GitHub](https://github.com/RoitoLeonine)）、 Gloridifice（[Bilibili](https://space.bilibili.com/50966004/)、[GitHub](https://github.com/gloridifice)）
+**鸣谢**：MalayP、纪华裕
 
-赞助鸣谢：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
+**赞助鸣谢**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
 
-百科维护：RoitoLeonine
+**百科维护**：RoitoLeonine
 
-百科正在陆续补全中……
+百科内如未收录配方，请自行使用JEI（Just Enough Item）模组查询！
 
-尚未完善的地方可以通过Q群871814809或[Discord](https://discord.gg/HhtVenq)咨询。
+尚未完善的地方可以通过[QQ群](https://jq.qq.com/?_wv=1027&k=5JyKMVJ)或[Discord](https://discord.gg/HhtVenq)咨询。
 
-## 方块
+**本文档文本、图像内容等均按照
+[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+协议授权。**
 
-* [竹匾](blocks/bamboo-tray.md)
-* [炉灶](blocks/stove.md)
+## 预计未来添加的特性
+
+* 雨露值与雨具
+* 更多竹制装饰
+* 水稻与灌溉系统
+* 腌制与酿酒工艺
+* 更多作物
+* 体感温度机制完善
+* 更多物流机制
+
+## 方块&物品
+
+* [竹匾](blocks-items/bamboo-tray.md)
+  * 自动化竹匾
+* [炉灶](blocks-items/stove.md)
   * 土灶
   * 石灶
-* 沏茶台
-* 白瓷壶
+* [沏茶台](blocks-items/drink-maker.md)
+* [白瓷壶](blocks-items/porcelain-teapot.md)
   * 粘土壶坯
-* [木架](blocks/wooden-frame.md)
-* [竹制装饰品](blocks/bamboo-decorations.md)
+* 作物
+  * [（野生）茶树](blocks-items/tea-plant.md)
+* [弹射板](blocks-items/catapult-board.md)
+  * 石制
+  * 竹制
+  * 铁制
+* [木架](blocks-items/wooden-frame.md)
+* 竹板
+* [竹制装饰品](blocks-items/bamboo-decorations.md)
   * 竹椅
   * 竹桌
   * 竹灯
   * 竹门
   * 竹玻璃门
-* [（野生）茶树](blocks/tea-plant.md)
-
-## 物品
-
-* [灰烬](items/ash.md)
-* 绿茶鲜叶
-* 绿茶干叶
-* 红茶干叶
-* 茶包
+* [灰烬](blocks-items/ash.md)
+* [茶叶](blocks-items/tea-leaves.md)
+  * 绿茶鲜叶
+  * 绿茶干叶
+  * 红茶干叶
+  * 白茶干叶
+* [茶叶渣](blocks-items/tea-residue.md)
+* [茶包](blocks-items/tea-bag.md)
   * 空茶包
   * 绿茶茶包
   * 红茶茶包
-* 白瓷杯
-  * 粘土杯坯
-* 水杯
-* 温度计
-* 雨量计
-* 湿度计
+* [茶具](blocks-items/tea-set.md)
+  * 白瓷杯
+    * 粘土杯坯
+  * 水杯
 * 食物
   * 牛肉干
   * 猪肉干
@@ -70,23 +89,12 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 ## 流体
 
-* 水
-  * 温水
-  * 热水（60℃）
-  * 热水（80℃）
-  * 沸水
-* 绿茶
-  * 淡绿茶
-  * 绿茶
-  * 浓绿茶
-* 红茶
-  * 淡红茶
-  * 红茶
-  * 浓红茶
-* 白茶
-  * 淡白茶
-  * 白茶
-  * 浓白茶
+* [温水](fluids/warm-water.md)
+* [沸水](fluids/boiling-water.md)
+* [糖水](fluids/sugary-water.md)
+* [绿茶](fluids/green-tea.md)
+* [红茶](fluids/black-tea.md)
+* [白茶](fluids/white-tea.md)
 
 ## 状态效果
 
@@ -98,9 +106,14 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 ## 机制与玩法
 
-* 温度
-* 降水量
-* 湿度
-* 作物环境
+* 温度、降水量与湿度
+  * 温度计
+  * 雨量计
+  * 湿度计
+* 体感温度
+* 作物环境限制机制
+  * 禁用骨粉催熟作物
 * 花色杂交
-
+  * 菊花
+  * 风信子
+  * 百日菊
