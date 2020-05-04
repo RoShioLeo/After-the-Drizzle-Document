@@ -96,22 +96,21 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 ## 状态效果
 
-* 云身
-* 生命汲取
-* 金钟罩
-* 光合作用
-* 提神
+* [云身](effects/agility.md)
+* [生命汲取](effects/life-drain.md)
+* [金钟罩](effects/impenetrable-defence.md)
+* [光合作用](effects/photosynthesis.md)
+* [提神](effects/excitement.md)
 
 ## 机制与玩法
 
-* 温度、降水量与湿度
+* [温度、降水量与湿度系统](features/humid.md)
   * 温度计
   * 雨量计
   * 湿度计
-* 体感温度
-* 作物环境限制机制
-  * 禁用骨粉催熟作物
-* 花色杂交
+* [体感温度系统](features/player-temperature.md)
+* [作物环境系统](features/crops.md)
+* [花朵杂交系统](features/flower-hybridization.md)
   * 菊花
   * 风信子
   * 百日菊
