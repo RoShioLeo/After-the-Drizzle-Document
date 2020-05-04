@@ -4,7 +4,7 @@
 
 **茶树（Tea Plant）** 是一种生长于湿润到潮湿环境的作物。
 
-![&#x91CE;&#x751F;&#x8336;&#x6811;](../.gitbook/assets/wild_tea_plant.png)
+![野生茶树](../.gitbook/assets/blocks-items/wild_tea_plant.png)
 
 ## 自然生成
 

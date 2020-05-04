@@ -5,7 +5,7 @@
 **沏茶台（Drink Maker）**
 是本模组加入的一个用于制作饮料的多方块。
 
-![沏茶台](../.gitbook/assets/blocks/drink_maker.png)
+![沏茶台](../.gitbook/assets/blocks-items/drink_maker.png)
 
 ## 合成
 
