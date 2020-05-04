@@ -2,9 +2,7 @@
 
 **炉灶（Stove）** 是一个可以为上方方块提供热源的方块，目前分别有 **土灶（Dirt Stove）**、 **石灶（Stone Stove）** 两种类型。
 
-![土灶](../.gitbook/assets/blocks-items/dirt_stove.png)
-
-![石灶](../.gitbook/assets/blocks-items/stone_stove.png)
+![土灶和石灶](../.gitbook/assets/blocks-items/stove.png)
 
 ## 交互
 
@@ -22,7 +20,7 @@
 
 ![任意泥土 * 8 → 土灶 * 1](../.gitbook/assets/recipes/dirt_stove_recipe.png)
 
-![圆石 * 8 + 土灶 * 1 → 石灶 * 1](../.gitbook/assets/recipes/stone_stove_recipe%20%281%29.png)
+![圆石 * 8 + 土灶 * 1 → 石灶 * 1](../.gitbook/assets/recipes/stone_stove_recipe.png)
 
 ## 用途
 

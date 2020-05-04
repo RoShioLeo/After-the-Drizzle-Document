@@ -3,7 +3,7 @@
 **灰烬（Ash）**
 是通过炉灶燃烧燃料而获得一种物品，具有骨粉催熟效果。
 
-![灰烬（可能是草木灰）](../.gitbook/assets/ash.png)
+![灰烬（可能是草木灰）](../.gitbook/assets/blocks-items/ash.png)
 
 ## 获取
 

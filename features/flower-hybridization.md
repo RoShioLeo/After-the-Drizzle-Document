@@ -16,9 +16,13 @@
     - 温度：~温暖；
     - 湿度：干燥~湿润；
 
+![可以自然生成的几种花](../.gitbook/assets/blocks-items/flowers.png)
+
 ## 杂交机制
 
 每种花均有16种花色，可自然生成的花色有白色，红色，黄色和蓝色。
+
+![全部花朵](../.gitbook/assets/descriptions/flowers.png)
 
 自交或同色杂交，产生同种颜色。
 任何不在下面的花色杂交，均产生黑色。

@@ -3,6 +3,8 @@
 **温度、降水量与湿度系统（Environment System）**
 是模组依于原版数据，引入的一套用于生存的数据系统。
 
+![温度计、雨量计与湿度计](../.gitbook/assets/blocks-items/environment.png)
+
 ## 温度
 
 在本系统中，根据原版生物群系数据，将温度划分为以下六个级别。（各群系默认温度数据在Minecraft Wiki中均可查询。）
@@ -59,3 +61,11 @@
 | 潮湿 | 54，55，56 | 高温高湿 |
 
 游戏内大部分环境设定基本与湿度相关。
+
+## 相关工具合成
+
+![玻璃 * 7 + 水桶 * 1 → 温度计 * 1](../.gitbook/assets/recipes/thermometer_recipe.png)
+
+![玻璃 * 6 + 水桶 * 1 → 雨量计 * 1](../.gitbook/assets/recipes/rain_gauge_recipe.png)
+
+![温度计 * 1 + 雨量计 * 1 → 湿度计 * 1](../.gitbook/assets/recipes/hygrometer_recipe.png)

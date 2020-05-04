@@ -3,11 +3,11 @@
 **白瓷壶（Porcelain Teapot）**
 是一个可以装1000mB流体的方块。
 
-[假装这里有图片]
+![粘土壶坯和白瓷壶](../.gitbook/assets/blocks-items/porcelain_teapot.png)
 
 ## 合成
 
-待补充
+![粘土 * 3 → 粘土壶坯 * 1](../.gitbook/assets/recipes/clay_teapot_recipe.png)
 
 ## 用途与特点
 

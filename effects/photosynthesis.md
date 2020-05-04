@@ -5,6 +5,8 @@
 **光合作用（Photosynthesis）**
 是模组加入的一种药水效果，在光照大于等于某一程度（含夜晚）时，每三秒自动回血1点。
 
+![光合作用图标](../.gitbook/assets/effects/photosynthesis.png)
+
 ## 说明
 
 - 光照要求与效果等级关系：

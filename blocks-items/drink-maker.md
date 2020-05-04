@@ -3,7 +3,7 @@
 > 沏茶配方请使用JEI模组查询！
 
 **沏茶台（Drink Maker）**
-是本模组加入的一个用于制作饮料的多方块。
+是本模组加入的一个用于制作饮料的多方块，自身具有2000mB的容量。
 
 ![沏茶台](../.gitbook/assets/blocks-items/drink_maker.png)
 

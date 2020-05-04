@@ -7,6 +7,8 @@
 
 ## 各类茶叶
 
+![现有的几种茶叶](../.gitbook/assets/blocks-items/tea_leaves.png)
+
 - 绿茶干叶
 
   目前模组制作的绿茶为晒青绿茶，使用绿茶鲜叶在竹匾户外模式干燥获得。
