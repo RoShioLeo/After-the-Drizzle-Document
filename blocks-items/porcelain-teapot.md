@@ -7,7 +7,7 @@
 
 ## 合成
 
-![粘土 * 3 → 粘土壶坯 * 1](../.gitbook/assets/recipes/clay_teapot_recipe.png)
+![黏土 * 3 → 粘土壶坯 * 1](../.gitbook/assets/recipes/clay_teapot_recipe.png)
 
 ## 用途与特点
 
