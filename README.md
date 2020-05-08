@@ -54,6 +54,7 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
   * 石制
   * 竹制
   * 铁制
+* [滤网](blocks-items/filter-screen.md)
 * [木架](blocks-items/wooden-frame.md)
 * 竹板
 * [竹制装饰品](blocks-items/bamboo-decorations.md)
@@ -84,6 +85,12 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
   * 羊肉干
   * 甜菜干
   * 胡萝卜干
+* 御寒/防暑物品
+  * [防寒层](blocks-items/insulating-layer.md)
+  * [水袋](blocks-items/water-bag.md)
+    * 热水袋
+    * 冰水袋
+  * [手炉](blocks-items/handwarmer.md)
 
 ## 流体
 

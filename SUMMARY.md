@@ -10,6 +10,7 @@
 * [白瓷壶](blocks-items/porcelain-teapot.md)
 * [茶树](blocks-items/tea-plant.md)
 * [弹射板](blocks-items/catapult-board.md)
+* [滤网](blocks-items/filter-screen.md)
 * [木架](blocks-items/wooden-frame.md)
 * [竹制装饰品](blocks-items/bamboo-decorations.md)
 * [灰烬](blocks-items/ash.md)
@@ -17,6 +18,9 @@
 * [茶叶渣](blocks-items/tea-residue.md)
 * [茶包](blocks-items/tea-bag.md)
 * [茶具](blocks-items/tea-set.md)
+* [防寒层](blocks-items/insulating-layer.md)
+* [水袋](blocks-items/water-bag.md)
+* [手炉](blocks-items/handwarmer.md)
 
 ## 流体 <a id="fluids"></a>
 
