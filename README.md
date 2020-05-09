@@ -24,7 +24,7 @@ This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((ht
 
 **Wiki Maintenance**：RoitoLeonine
 
-If any recipes are included in this wiki, please use Just Enough Items mod to get their information!
+If any recipes are not included in this wiki, please use Just Enough Items mod to get their information!
 
 Feel free to contact us via [QQ Group](https://jq.qq.com/?_wv=1027&k=5JyKMVJ) or [Discord](https://discord.gg/HhtVenq).
 
