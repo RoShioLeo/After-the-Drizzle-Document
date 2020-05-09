@@ -3,7 +3,11 @@
 **纱（Gauze）**
 是模组加入的一种可用在护甲上防暑的物品。
 
+![纱](../.gitbook/assets/blocks-items/gauze.png)
+
 ## 合成
+
+![线 * 7 → 纱 * 1](../.gitbook/assets/recipes/gauze_recipe.png)
 
 ## 说明
 
