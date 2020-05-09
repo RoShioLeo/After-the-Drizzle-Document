@@ -1,125 +1,127 @@
 ---
-description: 欢迎来到“细雨田园”（After the Drizzle）模组的官方简体中文百科！
+description: Welcome to English wiki of Minecraft Mod After the Drizzle!
 ---
 
-# 前言与导航
+# Foreword and Guides
 
 ![](.gitbook/assets/atd.png)
 
-这里是 **“细雨田园”（After the Drizzle）** 模组的[官方简体中文百科](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/)。
+This is the [Official English wiki](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/) for Minecraft mod **_After the Drizzle_(AtD in short, "细雨田园" in Chinese)**.
 
-本模组目前正处于 Alpha 第一开发阶段，您可通过在[爱发电](https://afdian.net/@roitoleonine)赞助作者而获取提前测试资格。
+This mod is in Alpha developing.
 
-本模组由 Lemon Slice Studio 荣誉出品。（项目[开源地址](https://github.com/lemon-slice-studio/After-the-Drizzle)）
+You are welcome to support the developers on [Afdian platform](https://afdian.net/@roitoleonine), a Chinese version of Patreon.
 
-**作者**：RoitoLeonine（[Bilibili](https://space.bilibili.com/34398850)、[GitHub](https://github.com/RoitoLeonine)）、 Gloridifice（[Bilibili](https://space.bilibili.com/50966004/)、[GitHub](https://github.com/gloridifice)）
+We will offer you pilot-test versions of AtD mod for our warmhearted sponsors.
 
-**鸣谢**：MalayP、纪华裕
+This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((https://github.com/lemon-slice-studio/After-the-Drizzle)))
 
-**赞助鸣谢**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
+**Authors**：RoitoLeonine([Bilibili](https://space.bilibili.com/34398850), [GitHub](https://github.com/RoitoLeonine)), Gloridifice([Bilibili](https://space.bilibili.com/50966004/), [GitHub](https://github.com/gloridifice))
 
-**百科维护**：RoitoLeonine
+**Special Credits**：MalayP, 纪华裕
 
-百科内如未收录配方，请自行使用JEI（Just Enough Item）模组查询！
+**Sponsors**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377), [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377), [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
 
-尚未完善的地方可以通过[QQ群](https://jq.qq.com/?_wv=1027&k=5JyKMVJ)或[Discord](https://discord.gg/HhtVenq)咨询。
+**Wiki Maintenance**：RoitoLeonine
 
-**本文档文本、图像内容等均按照
-[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-协议授权。**
+If any recipes are included in this wiki, please use Just Enough Items mod to get their information!
 
-## 预计未来添加的特性
+Feel free to contact us via [QQ Group](https://jq.qq.com/?_wv=1027&k=5JyKMVJ) or [Discord](https://discord.gg/HhtVenq).
 
-* 雨露值与雨具
-* 更多竹制装饰
-* 水稻与灌溉系统
-* 腌制与酿酒工艺
-* 更多作物
-* 体感温度机制完善
-* 更多物流机制
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## Features in the Future
+
+* Rain Value machanics and rain gears
+* More Bamboo decorations
+* Rice planting and irrigation machanics
+* Preserving and Winemaking systems
+* More crops
+* Apparent Temperature system improvements
+* More logistics machanics
 
 ## 方块&物品
 
-* [竹匾](blocks-items/bamboo-tray.md)
-  * 自动化竹匾
-* [炉灶](blocks-items/stove.md)
-  * 土灶
-  * 石灶
-* [沏茶台](blocks-items/drink-maker.md)
-* [白瓷壶](blocks-items/porcelain-teapot.md)
-  * 粘土壶坯
-* 作物
-  * [（野生）茶树](blocks-items/tea-plant.md)
-* [弹射板](blocks-items/catapult-board.md)
-  * 石制
-  * 竹制
-  * 铁制
-* [滤网](blocks-items/filter-screen.md)
-* [木架](blocks-items/wooden-frame.md)
-* 竹板
-* [竹制装饰品](blocks-items/bamboo-decorations.md)
-  * 竹椅
-  * 竹桌
-  * 竹灯
-  * 竹门
-  * 竹玻璃门
-* [灰烬](blocks-items/ash.md)
-* [茶叶](blocks-items/tea-leaves.md)
-  * 绿茶鲜叶
-  * 绿茶干叶
-  * 红茶干叶
-  * 白茶干叶
-* [茶叶渣](blocks-items/tea-residue.md)
-* [茶包](blocks-items/tea-bag.md)
-  * 空茶包
-  * 绿茶茶包
-  * 红茶茶包
-* [茶具](blocks-items/tea-set.md)
-  * 白瓷杯
-    * 粘土杯坯
-  * 水杯
-* 食物
-  * 牛肉干
-  * 猪肉干
-  * 鸡肉干
-  * 羊肉干
-  * 甜菜干
-  * 胡萝卜干
-* 御寒/防暑物品
-  * [防寒层](blocks-items/insulating-layer.md)
-  * [纱](blocks-items/gauze.md)
-  * [水袋](blocks-items/water-bag.md)
-    * 热水袋
-    * 冰水袋
-  * [手炉](blocks-items/handwarmer.md)
-* [坑](blocks-items/hole.md)
+* [Bamboo Trays](blocks-items/bamboo-tray.md)
+  * Automated bamboo trays
+* [Stoves](blocks-items/stove.md)
+  * Dirt Stoves
+  * Stone Stoves
+* [Drink Makers](blocks-items/drink-maker.md)
+* [Porcelain Teapot](blocks-items/porcelain-teapot.md)
+  * Clay Teapot
+* Crops
+  * [(Wild) Tea Trees](blocks-items/tea-plant.md)
+* [Catapult Board](blocks-items/catapult-board.md)
+  * Stone Catapult Board
+  * Bamboo Catapult Board
+  * Iron Catapult Board
+* [Filter Screens](blocks-items/filter-screen.md)
+* [Wooden Frames](blocks-items/wooden-frame.md)
+* Bamboo Planks
+* [Bamboo Decorations](blocks-items/bamboo-decorations.md)
+  * Bamboo Chairs
+  * Bamboo Tables
+  * Bamboo Lamps
+  * Bamboo Doors
+  * Bamboo Glass Doors
+* [Ash](blocks-items/ash.md)
+* [Tea Leaves](blocks-items/tea-leaves.md)
+  * Fresh Green Tea Leaves
+  * Dried Green Tea Leaves
+  * Dried Black Tea Leaves
+  * Dried White Tea Leaves
+* [Tea Residue](blocks-items/tea-residue.md)
+* [Tea Bags](blocks-items/tea-bag.md)
+  * Empty Tea Bags
+  * Green Tea Bags
+  * Red Tea Bags
+* [Tea-set](blocks-items/tea-set.md)
+  * Porcelain Cup
+    * Clay Cup
+  * Bottle
+* Foods
+  * Beef Jerky
+  * Pork Jerky
+  * Chicken Jerky
+  * Mutton Jerky
+  * Dried Beetroot
+  * Dried Carrot
+* Cold/Heat Protections
+  * [Insulating Layer](blocks-items/insulating-layer.md)
+  * [Gauze](blocks-items/gauze.md)
+  * [Water Bags](blocks-items/water-bag.md)
+    * Hot Water Bags
+    * Cool Water Bags
+  * [Handwarmers](blocks-items/handwarmer.md)
+* [Holes](blocks-items/hole.md)
 
-## 流体
+## Fluid
 
-* [温水](fluids/warm-water.md)
-* [沸水](fluids/boiling-water.md)
-* [糖水](fluids/sugary-water.md)
-* [绿茶](fluids/green-tea.md)
-* [红茶](fluids/black-tea.md)
-* [白茶](fluids/white-tea.md)
+* [Warm Water](fluids/warm-water.md)
+* [Boiling Water](fluids/boiling-water.md)
+* [Sugary Water](fluids/sugary-water.md)
+* [Green Tea](fluids/green-tea.md)
+* [Black Tea](fluids/black-tea.md)
+* [White Tea](fluids/white-tea.md)
 
-## 状态效果
+## Potion Effects
 
-* [云身](effects/agility.md)
-* [生命汲取](effects/life-drain.md)
-* [金钟罩](effects/impenetrable-defence.md)
-* [光合作用](effects/photosynthesis.md)
-* [提神](effects/excitement.md)
+* [Agility](effects/agility.md)
+* [Life Drain](effects/life-drain.md)
+* [Impenetrable Defence](effects/impenetrable-defence.md)
+* [Photosynthesis](effects/photosynthesis.md)
+* [Excitement](effects/excitement.md)
 
-## 机制与玩法
+## Mechanics and Gameplays
 
-* [温度、降水量与湿度系统](features/humid.md)
-  * 温度计
-  * 雨量计
-  * 湿度计
-* [体感温度系统](features/player-temperature.md)
-* [作物环境系统](features/crops.md)
-* [花朵杂交系统](features/flower-hybridization.md)
-  * 菊花
-  * 风信子
-  * 百日菊
+* [Temperature, Precipitation, and Humid Systems](features/humid.md)
+  * Thermometers
+  * Rain Gauges
+  * Hygrometers
+* [Apparent Temperature System](features/player-temperature.md)
+* [Crops Growing System](features/crops.md)
+* [Flower Hybridization](features/flower-hybridization.md)
+  * Chrysanthemum
+  * Hyacinth
+  * Zinnia
