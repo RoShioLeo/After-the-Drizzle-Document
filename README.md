@@ -87,10 +87,12 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
   * 胡萝卜干
 * 御寒/防暑物品
   * [防寒层](blocks-items/insulating-layer.md)
+  * [纱](blocks-items/gauze.md)
   * [水袋](blocks-items/water-bag.md)
     * 热水袋
     * 冰水袋
   * [手炉](blocks-items/handwarmer.md)
+* [坑](blocks-items/hole.md)
 
 ## 流体
 

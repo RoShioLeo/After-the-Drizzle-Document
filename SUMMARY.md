@@ -19,8 +19,10 @@
 * [茶包](blocks-items/tea-bag.md)
 * [茶具](blocks-items/tea-set.md)
 * [防寒层](blocks-items/insulating-layer.md)
+* [纱](blocks-items/gauze.md)
 * [水袋](blocks-items/water-bag.md)
 * [手炉](blocks-items/handwarmer.md)
+* [坑](blocks-items/hole.md)
 
 ## 流体 <a id="fluids"></a>
 
