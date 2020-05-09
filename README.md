@@ -40,7 +40,7 @@ Feel free to contact us via [QQ Group](https://jq.qq.com/?_wv=1027&k=5JyKMVJ) or
 * Apparent Temperature system improvements
 * More logistics machanics
 
-## 方块&物品
+## Blocks & Items
 
 * [Bamboo Trays](blocks-items/bamboo-tray.md)
   * Automated bamboo trays
