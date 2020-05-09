@@ -27,7 +27,7 @@
 
 竹匾总共有五种模式可切换，分别为 **室外模式（Outdoor Mode）**、 **室内模式（Indoor Mode）**、 **烘焙模式（Bake Mode）**、 **加工模式（Process Mode）** 和**淋雨模式（In-rain Mode）**。
 
-### ![](../.gitbook/assets/descriptions/outdoor_mode.png) 室外模式
+### ![](../.gitbook/assets/descriptions/outdoor_mode.png) 户外模式
 
 将竹匾放在阳光可直射到的地方即可切换到室外模式，优先级低于烘焙模式、加工模式和淋雨模式。
 
