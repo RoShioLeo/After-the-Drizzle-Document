@@ -26,8 +26,6 @@ This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((ht
 
 If any recipes are not included in this wiki, please use Just Enough Items mod to get their information!
 
-Feel free to contact us via [QQ Group](https://jq.qq.com/?_wv=1027&k=5JyKMVJ) or [Discord](https://discord.gg/HhtVenq).
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Features in the Future
