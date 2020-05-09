@@ -30,13 +30,13 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
 
 ## Features in the Future
 
-* Rain Value machanics and rain gears
+* Rain Value mechanics and rain gears
 * More Bamboo decorations
-* Rice planting and irrigation machanics
+* Rice planting and irrigation mechanics
 * Preserving and Winemaking systems
 * More crops
 * Apparent Temperature system improvements
-* More logistics machanics
+* More logistics mechanics
 
 ## Blocks & Items
 
