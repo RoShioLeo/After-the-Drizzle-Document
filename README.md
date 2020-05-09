@@ -12,7 +12,7 @@ This mod is in Alpha developing.
 
 You are welcome to support the developers on [Afdian platform](https://afdian.net/@roitoleonine), a Chinese version of Patreon.
 
-We will offer you pilot-test versions of AtD mod for our warmhearted sponsors.
+We will offer BIG hugs for our warmhearted sponsors.
 
 This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((https://github.com/lemon-slice-studio/After-the-Drizzle)))
 
