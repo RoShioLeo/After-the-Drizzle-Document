@@ -58,11 +58,11 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
 * [Wooden Frames](blocks-items/wooden-frame.md)
 * Bamboo Planks
 * [Bamboo Decorations](blocks-items/bamboo-decorations.md)
-  * Bamboo Chairs
-  * Bamboo Tables
-  * Bamboo Lamps
-  * Bamboo Doors
-  * Bamboo Glass Doors
+  * Bamboo Chair
+  * Bamboo Table
+  * Bamboo Lantern
+  * Bamboo Door
+  * Bamboo Glass Door
 * [Ash](blocks-items/ash.md)
 * [Tea Leaves](blocks-items/tea-leaves.md)
   * Fresh Green Tea Leaves
