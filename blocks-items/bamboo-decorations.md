@@ -15,4 +15,3 @@ Since there are few things to introduce, all information of bamboo decorations i
 ![Bamboo Planks * 6 → Bamboo Doors * 3](../.gitbook/assets/recipes/bamboo_door_recipe.png)
 
 ![Glass * 2 + Bamboo Planks * 4 → 竹玻璃门 * 3](../.gitbook/assets/recipes/bamboo_glass_door_recipe.png)
-
