@@ -1,41 +1,61 @@
-# 竹匾（Bamboo Tray）
+# Bamboo Tray
 
-> 竹匾内各模式配方请使用JEI模组查询！
+> Use JEI to find Bamboo Trays' all modes information and their related recipes!
 
-**竹匾（Bamboo Tray）**
-是一个有多种模式用于加工的方块。
+**Bamboo Tray**
+Bamboo Tray is a utility block used for producing many useful items.
 
-![竹匾](../.gitbook/assets/blocks-items/bamboo_tray.png)
+It has 5 different modes, each mode has its own recipes.
 
-## 合成
+![Bamboo Tray](../.gitbook/assets/blocks-items/bamboo_tray.png)
 
-![竹子 * 4 + 竹板 * 1 → 竹匾 * 1](../.gitbook/assets/recipes/bamboo_tray_recipe.png)
+## How to craft
 
-## 交互
+![Bamboo * 4 + Bamboo Planks * 1 → Bamboo Tray * 1](../.gitbook/assets/recipes/bamboo_tray_recipe.png)
 
-竹匾的交互以右键为主，GUI为辅。
+## How to interact
 
-手持物品右击时，若该物品在该模式下能够被加工则会被放入竹匾中。
+Most interactions with the Bamboo Trays are by right-clicking it,
 
-右击时，若竹匾内有物品且已加工完成，则会被取出；若仍在加工则不会。
+but it have a GUI.
 
-右键双击，则会强制取出竹匾内的物品。
+If you hold an item, which can be used for a Bamboo Tray's recipe that fit its current mode,
 
-潜行时，空手右键则会打开GUI，查看详细信息。
+Holding this item and right-clicking the Bamboo Tray will put the item into the tray.
 
-## 用途
+If the Bamboo Tray has finished its recipe, right-clicking the tray will take the product out.
 
-竹匾总共有五种模式可切换，分别为 **室外模式（Outdoor Mode）**、 **室内模式（Indoor Mode）**、 **烘焙模式（Bake Mode）**、 **加工模式（Process Mode）** 和**淋雨模式（In-rain Mode）**。
+But if the recipe is still proceeding, nothing will happens.
 
-### ![](../.gitbook/assets/descriptions/outdoor_mode.png) 户外模式
+Double right-clicking the Bamboo Tray will force to take the item in the tray out.
 
-将竹匾放在阳光可直射到的地方即可切换到室外模式，优先级低于烘焙模式、加工模式和淋雨模式。
+Sneaking and right-clicking the Bamboo Tray with an empty hand will open the tray's GUI,
 
-干燥时间由该区域的湿度所决定，晚上仍可进行干燥，雨天暂停。
+showing its detailed information.
 
-### ![](../.gitbook/assets/descriptions/indoor_mode.png) 室内模式
+## How to use
 
-将竹匾放在可遮住阳光的方块下方即可切换到室内模式，优先级低于烘焙模式、加工模式和淋雨模式。
+Bamboo Tray has 5 different modes, you may switch from one to another to do the recipe you want.
+
+They are **Outdoor Mode**,**Indoor Mode**, **Bake Mode**, **Process Mode**, and**In-rain Mode**.
+
+### ![](../.gitbook/assets/descriptions/outdoor_mode.png) Outdoor Mode
+
+If a Bamboo Tray is put at a place where sky can be seen, and it is not in Bake Mode, Process Mode, and In-rain Mode,
+
+it will be switched to the Outdoor Mode.
+
+Time amount that the drying recipe taken is decided by the Humid of the place.
+
+The drying recipe still proceeds at night, but will stop when it is rain.
+
+### ![](../.gitbook/assets/descriptions/indoor_mode.png) Indoor Mode
+
+Place the Bamboo Tray under a intransparent block which can block the sunlight, 
+
+and the Bamboo Tray is not in Bake Mode, Process Mode, and In-rain Mode,
+
+then the Bamboo Tray will be switched the Bamboo Tray to the Indoor Mode.
 
 发酵时间由该区域的湿度所决定。
 
