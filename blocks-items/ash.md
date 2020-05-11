@@ -1,16 +1,22 @@
-# 灰烬 Ash
+# Ash
 
-**灰烬（Ash）**
-是通过炉灶燃烧燃料而获得一种物品，具有骨粉催熟效果。
+**Ash**
+When you use Stoves to burn some fuels,
 
-![灰烬（可能是草木灰）](../.gitbook/assets/blocks-items/ash.png)
+you will get Ash items.
 
-## 获取
+It can accelerate plants and crops' growing, just like the vanilla Bone Meals do.
 
-炉灶每燃烧一个燃料就会产生一个灰烬。
+![Ash(or plant ash)](../.gitbook/assets/blocks-items/ash.png)
 
-当方块燃烧时，也会有概率掉落灰烬。
+## How to get
 
-## 用途
+Every time Stoves consume a fuel item, it produces an Ash item.
 
-与骨粉一样具有催熟效果，该功能可在配置文件关闭。
+When a block is burnt out, there is a small chance to drop an Ash item.
+
+## How to use
+
+It can be used to accelerate plants and crops' growing, just like the vanilla Bone Meals do.
+
+If you wish, you can disable this function in configuration file.
