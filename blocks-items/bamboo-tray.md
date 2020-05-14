@@ -59,24 +59,29 @@ then the Bamboo Tray will be switched the Bamboo Tray to the Indoor Mode.
 
 发酵时间由该区域的湿度所决定。
 
-### ![](../.gitbook/assets/descriptions/bake_mode.png) 烘焙模式
+### ![](../.gitbook/assets/descriptions/bake_mode.png) Bake Mode
 
-将竹匾放在点燃的炉灶上方即可切换到烘焙模式。
+Put Bamboo Tray on a lit Stove, and it will be switched to Bake Mode.
 
-### ![](../.gitbook/assets/descriptions/process_mode.png) 加工模式（暂时无用）
+### ![](../.gitbook/assets/descriptions/process_mode.png) Process Mode(WIP)
 
-将竹匾放在木架上方即可切换到加工模式。
+Put Bamboo Tray on a Wooden Frame, and it will be switched to Process Mode.
 
-放入物品后，手持对应的物品进行右键操作即可加工。
+After you put some items into the tray, you can process them by right-clicking the tray with the corresponding item in your hand.
 
-### ![](../.gitbook/assets/descriptions/in-rain_mode.png) 淋雨模式
+Now this mode is of no use for it is still under developing.
+### ![](../.gitbook/assets/descriptions/in-rain_mode.png) In-rain Mode
 
-将竹匾放在雨中即可切换到淋雨模式，竹匾内的物品会被打湿。
+Put the Bamboo Tray in the rain and it will be switched into the In-rain Mode.
 
-## 自动化竹匾
+The item in the tray will become wet.
 
-将竹匾放置在石制[弹射板](catapult-board.md)上，可装备成自动化竹匾。
+## Automated Bamboo Tray
 
-在附近有红石信号激活的情况下， 当竹匾内物品完成一次加工时，会将竹匾内的物品朝弹射板方向弹出一格。
+Put Bamboo Tray on Stone [Catapult Board](catapult-board.md) will automate it.
 
-可以利用这个特点，在该方向放置漏斗进行收集。
+If Stone Catapult Board is redstone-activated, every time the Bamboo Tray finishes one recipe,
+
+the product will be capculted 1 block far, towards the direction which the Catapult Board face to.
+
+You may put hoppers at that point to collect the products.
