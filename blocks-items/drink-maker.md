@@ -1,16 +1,22 @@
-# 沏茶台 Drink Maker
+# Drink Maker
 
-> 沏茶配方请使用JEI模组查询！
+> Please use JEI to discover all drink-making recipes!
 
-**沏茶台（Drink Maker）**
-是本模组加入的一个用于制作饮料的多方块，自身具有2000mB的容量。
+**Drink Maker**
+is a utility block used for making drinks.
 
-![沏茶台](../.gitbook/assets/blocks-items/drink_maker.png)
+It takes 2-block space when it is placed, just like a Vanilla bed.
 
-## 合成
+It can contain 2000mB(2 Buckets) of fluid.
 
-![任意木板 * 3 + 木棍 * 2 → 沏茶台 * 1](../.gitbook/assets/recipes/drink_maker_recipe.png)
+![Drink Maker](../.gitbook/assets/blocks-items/drink_maker.png)
 
-## 交互
+## How to craft
 
-使用可以装入流体的物品右击沏茶台，可以倒入或倒出沏茶台内的流体。
+![Any type of Planks * 3 + Sticks * 2 → Drink Maker * 1](../.gitbook/assets/recipes/drink_maker_recipe.png)
+
+## How to interact
+
+Holding a container which is able to contain fluids(Vanilla Buckets, for example), and right-clicking the Drink Maker,
+
+will add fluid into the Drink Maker, or take fluid in the Drinker Maker out.
