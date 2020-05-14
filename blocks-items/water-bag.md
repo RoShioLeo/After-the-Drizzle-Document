@@ -1,7 +1,6 @@
-# 水袋 Water Bag
+# Water Bag
 
-**水袋（Water Bag）**
-是模组加入一种的防寒耐热用品。
+**Water Bag** is an item provide heat/cold protection.
 
 ![Water Bag](../.gitbook/assets/blocks-items/water_bag.png)
 
