@@ -1,16 +1,15 @@
-# 纱 Gauze
+# Gauze
 
-**纱（Gauze）**
-是模组加入的一种可用在护甲上防暑的物品。
+**Gauze** is an item, which you can craft with armor and provide those pieces of armor with heat protection function.
 
-![纱](../.gitbook/assets/blocks-items/gauze.png)
+![Gauze](../.gitbook/assets/blocks-items/gauze.png)
 
-## 合成
+## How to craft
 
-![线 * 7 → 纱 * 1](../.gitbook/assets/recipes/gauze_recipe.png)
+![String * 7 → Gauze * 1](../.gitbook/assets/recipes/gauze_recipe.png)
 
-## 说明
+## How to use
 
-三个纱可与护甲合成具有防暑属性的护甲。
+Craft 3 Gauze items with a piece of armor will give it heat protection property.
 
-每两件有纱的护甲，可以提供一点耐热值。
+Every 2 pieces of armor with Gauze provide 1 point of Heat-resistant.
