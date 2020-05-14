@@ -1,22 +1,25 @@
-# 滤网 Filter Screen
+# Filter Screen
 
-> 该方块仍在试验中，可能会出现过滤效果不佳的情况！
+> Functions of this block is still under developing and testing, so it may not work as perfectly as this article says!
 
-**滤网（Filter Screen）**
-是模组加入一种的用于定向过滤物品实体的方块。
+**Filter Screen** is a utility block used for filtering certain types of items as you want.
 
-![滤网](../.gitbook/assets/blocks-items/filter_screen.png)
+![Filter Screen](../.gitbook/assets/blocks-items/filter_screen.png)
 
-## 合成
+## How to craft
 
-![木棍 * 4 + 线 * 4 + 红石粉 * 1 → 滤网 * 1](../.gitbook/assets/recipes/filter_screen_recipe.png)
+![Sticks * 4 + Strings * 4 + Redstone Dust * 1 → Filter Screen * 1](../.gitbook/assets/recipes/filter_screen_recipe.png)
 
-## 使用
+## How to use
 
-- 使用空手右击滤网可使滤网改变方向。
+- Right-click the Filter Screen with an empty hand to change direction it faced to.
 
-- 在滤网上方放置可存储物品的容器，并在其内放置物品，即可让该物品的实体通过滤网而不受阻拦。多个滤网在竖直方向上叠加时，都会以上方最近的容器作为白名单列表。
+- Put a container block on the Filter Screen, and put some items into that container block, then the filter will stop any item entities but the items which is in that container from going through it. 
 
-  ![一个简单的过滤装置，可过网物品由最上方容器存储所决定](../.gitbook/assets/descriptions/filter_screen.png)
+The container on the Filter Screen acts as a whitelist. 
 
-- 滤网不会阻拦其他实体穿过。
+If multiple Filter Screens stack vertically, they will use the nearest container which is above them as whitelist.
+
+  ![A simple filter. The types of items being able to pass is decided by the containers above the Filter Screen](../.gitbook/assets/descriptions/filter_screen.png)
+
+- Filter Screen only stops drop item entities, other types of entities can go through it easily.
