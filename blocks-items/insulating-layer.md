@@ -1,16 +1,14 @@
-# 防寒层 Insulating Layer
+# Insulating Layer
 
-**防寒层（Insulating Layer）**
-是模组加入的一种可用在护甲上御寒的物品。
+**Insulating Layer** is an item, which you can craft with armor and provide those pieces of armor with cold protection function.
 
-![防寒层](../.gitbook/assets/blocks-items/insulating_layer.png)
+![Insulating Layer](../.gitbook/assets/blocks-items/insulating_layer.png)
 
-## 合成
+## How to craft
 
-![皮革 * 4 + 任意羊毛 * 3 + 羽毛 * 3 → 防寒层 * 1](../.gitbook/assets/recipes/insulating_layer_recipe.png)
+![Leathers * 4 + Any color of Wool * 3 + Feathers * 3 → 防寒层 * 1](../.gitbook/assets/recipes/insulating_layer_recipe.png)
 
-## 说明
+## How to use
+Craft 3 Insulating Layer items with a piece of armor will give it cold protection property.
 
-三个防寒层可与护甲合成具有御寒属性的护甲。
-
-每两件有防寒层的护甲，可以提供一点防寒值。
+Every 2 pieces of armor with Insulating Layer provide 1 point of Cold-resistant.
