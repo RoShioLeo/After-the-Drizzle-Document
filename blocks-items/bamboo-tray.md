@@ -57,7 +57,7 @@ and the Bamboo Tray is not in Bake Mode, Process Mode, and In-rain Mode,
 
 then the Bamboo Tray will be switched the Bamboo Tray to the Indoor Mode.
 
-发酵时间由该区域的湿度所决定。
+The amount of time fermentation takes is decided by the Humid of that area.
 
 ### ![](../.gitbook/assets/descriptions/bake_mode.png) Bake Mode
 
