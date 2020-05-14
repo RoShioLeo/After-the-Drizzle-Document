@@ -1,22 +1,25 @@
 # 茶叶 Tea Leaves
 
-> 沏茶配方请使用JEI模组查询！
+> Please use JEI to discover all Tea-making recipes!
 
-**茶叶（Tea Leaves）**
-是由茶树获得的一种叶子及其加工产品，目前总共有三类茶。
+**Tea Leaves** is literally leaves of Tea Plants, and processed tea leaves used for tea-making.
 
-## 各类茶叶
+There are 3 variants of Tea Leaves at present.
 
-![现有的几种茶叶](../.gitbook/assets/blocks-items/tea_leaves.png)
+## Variants of Tea Leaves
 
-- 绿茶干叶
+![All types of Tea Leaves now](../.gitbook/assets/blocks-items/tea_leaves.png)
 
-  目前模组制作的绿茶为晒青绿茶，使用绿茶鲜叶在竹匾户外模式干燥获得。
+- Dried Green Tea Leaves
 
-- 红茶干叶
+  Now *After the Drizzle* Mod's Green Tea is sunning green tea.
+  
+  Put Tea Leaves into a Bamboo Tray in Outdoor Mode to dry them, and you will get Dried Green Tea Leaves.
 
-  使用绿茶鲜叶在竹匾室内模式发酵获得。
+- Dried Black Tea Leaves
 
-- 白茶干叶
+  Put Tea Leaves into a Bamboo Tray in Indoor Mode to ferment them, and you will get Dried Black Tea Leaves.
 
-  使用绿茶鲜叶在竹匾烘焙模式烘焙获得。
+- Dried White Tea Leaves
+
+  Put Tea Leaves into a Bamboo Tray in Bake Mode to bake them, and you will get Dried White Tea Leaves.
