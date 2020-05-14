@@ -1,17 +1,12 @@
-# 木架（Wooden Frame）
+# Wooden Frame
+**Wooden Frame** is a utility block.
 
-## 木架 Wooden Frame
+![Wooden Frame](../.gitbook/assets/blocks-items/wooden_frame.png)
 
-**木架（Wooden Frame）** 是一种功能性方块。
+### How to craft
 
-![木架](../.gitbook/assets/blocks-items/wooden_frame.png)
+![Any type of Planks * 3 + Stick * 5 → Wooden Frame * 1](../.gitbook/assets/recipes/wooden_frame_recipe.png)
 
-### 合成
-
-![任意木板 * 3 + 木棍 * 5 → 木架 * 1](../.gitbook/assets/recipes/wooden_frame_recipe.png)
-
-## 用途
-
-* 竹匾放置于上方时，会进入加工模式。
-* 可以当做梯子。（但鉴于其极难使用，不推荐从木架爬下。）
-
+## How to use
+* A Bamboo Tray put on Wooden Frame will be switched to Process Mode.
+* It can act as a block with Ladders on its side faces. But this is not recommended.
