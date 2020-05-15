@@ -1,20 +1,25 @@
-# 云身 Agility
+# Agility
 
-**云身（Agility）**
-是模组加入的一种药水效果，有概率在受到任何伤害（含爆炸、攻击、药水效果或虚空等）时，回避此次伤害。
+**Agility** is one of potion effects added by *After the Drizzle* Mod.
 
-![云身图标](../.gitbook/assets/effects/agility.png)
+It gives you the ability that every time you may get damaged, 
 
-## 说明
+including explosion, melee or ranged attack, other potion effects, and void damage, 
 
-- 回避概率与效果等级关系：
+you have a chance to escape the damage.
 
-  回避概率 = 5% + 效果等级 * 15%
+![Icon of Agility effect](../.gitbook/assets/effects/agility.png)
 
-- 通过茶饮获得的各级效果：
+## Description
 
-  云身Ⅰ，回避几率为20%。
+- The probablility of escaping damage is related to the Agility effect's level.
 
-  云身Ⅱ，回避几率为35%。
+  probablility of escaping damage = 5% + effect's level * 15%
 
-  云身Ⅲ，回避几率为50%。
+- You can get this effect by drinking tea, and the probablility of escaping damage is:
+
+  AgilityⅠ- 20%。
+
+  Agility Ⅱ - 35%。
+
+  Agility Ⅲ - 50%。
