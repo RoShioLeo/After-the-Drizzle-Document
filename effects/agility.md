@@ -1,6 +1,6 @@
 # Agility
 
-**Agility** is one of potion effects added by *After the Drizzle* Mod.
+**Agility** is one of potion effects added by the *After the Drizzle* Mod.
 
 It gives you the ability that every time you may get damaged, 
 
