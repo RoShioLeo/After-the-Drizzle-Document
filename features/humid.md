@@ -81,6 +81,6 @@ Most environmental mechanics is related to the Humid system.
 
 ![Glass * 7 + Water Bucket * 1 → Thermometer * 1](../.gitbook/assets/recipes/thermometer_recipe.png)
 
-![Glass * 6 + Water Bucket * 1 → Rain Gauge * 1](../.gitbook/assets/recipes/rain_gauge_recipe.png)
+![Glass * 6 + Bucket * 1 → Rain Gauge * 1](../.gitbook/assets/recipes/rain_gauge_recipe.png)
 
 ![Thermometer * 1 + Rain Gauge * 1 → Hygrometer * 1](../.gitbook/assets/recipes/hygrometer_recipe.png)
