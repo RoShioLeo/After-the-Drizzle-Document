@@ -1,6 +1,9 @@
-# 提神 Excitement
+# Excitement
 
-**提神（Excitement）**
-是模组加入的一种药水效果。目前的效果为，阻止玩家睡觉，并为玩家提供一点耐寒值。
+**Excitement** is one of potion effects added by the *After the Drizzle* Mod.
 
-![提神图标](../.gitbook/assets/effects/excitement.png)
+Now its effect is:
+
+Prevent you from sleeping, but give you 1 point of cold resistant.
+
+![Icon of Excitement effect](../.gitbook/assets/effects/excitement.png)
