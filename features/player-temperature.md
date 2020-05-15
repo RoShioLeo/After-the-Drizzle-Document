@@ -109,7 +109,8 @@ and is calculated from the environmental temperature and humid.
   Daily lowest temperature comes at 6:00(0 tick), while the highest temperature comes at 14:00(8000 ticks).
 
 
-- - Too high or too low PAT will bring you debuffs.
+- Too high or too low PAT will bring you debuffs.
+
   | PAT | Debuff |
   |----------|-----------|
   |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get cold damage |
@@ -117,4 +118,4 @@ and is calculated from the environmental temperature and humid.
   |    Hot   | Nausea, Slowness Ⅱ |
   |    Heat   | Nausea, Slowness Ⅱ, and get heatstroke damage |
 
-  Fire Resistance potion effect can protect you from Hot and Heat debuffs.
+Fire Resistance potion effect can protect you from Hot and Heat debuffs.
