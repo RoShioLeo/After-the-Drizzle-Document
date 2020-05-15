@@ -1,17 +1,24 @@
-# 作物环境系统
+# Crop Environment System
 
-**作物环境系统（Crop Environment System）**
-是模组根据[湿度](humid.md#湿度)系统而引入的农业系统。
+**Crop Environment System** is a mechanics added by the *After the Drizzle* Mod,
 
-## 说明
+which is based on [湿度](humid.md#Humid) system, and influences your farming gameplay.
 
-目前所有作物（不包含其他模组果树），均会有一个适宜湿度；如果该作物不在支持列表内，则会给予默认适宜湿度：一般~湿润。
+## Description
 
-当作物在该湿度环境下生长时，与原版无差异。超出该范围临界值每一级，生长概率下降50%。
+All crops(except trees added by other mods) get a proper humid level. 
 
-同时模组默认禁用使用骨粉对作物催熟，催生草方块与促使茶树开花等功能仍正常。
+If a certain type of crop is not included in the support list, it gets a default proper humid level: Moderate to Moist.
 
-## 自定义兼容
+A crop will grow as it does in Vanilla Minecraft, when it is in its proper humid level.
+
+For each humid level away from the proper humid level, the crop's chance to grow decrease for 50%.
+
+Meanwhile, *After the Drizzle* Mod disables the Bone Meal to accelerate crops' growth.
+
+But Bone Meal is still able to let Tea Plant to bloom and apply on any blocks except crops.
+
+## Custom Compat
 
 
 
