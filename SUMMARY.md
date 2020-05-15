@@ -1,49 +1,49 @@
 # Table of contents
 
-* [前言与导航](README.md)
+* [Foreword and Guides](README.md)
 
-## 方块&物品 <a id="blocks-items"></a>
+## Blocks and Items <a id="blocks-items"></a>
 
-* [竹匾](blocks-items/bamboo-tray.md)
-* [炉灶](blocks-items/stove.md)
-* [沏茶台](blocks-items/drink-maker.md)
-* [白瓷壶](blocks-items/porcelain-teapot.md)
-* [茶树](blocks-items/tea-plant.md)
-* [弹射板](blocks-items/catapult-board.md)
-* [滤网](blocks-items/filter-screen.md)
-* [木架](blocks-items/wooden-frame.md)
-* [竹制装饰品](blocks-items/bamboo-decorations.md)
-* [灰烬](blocks-items/ash.md)
-* [茶叶](blocks-items/tea-leaves.md)
-* [茶叶渣](blocks-items/tea-residue.md)
-* [茶包](blocks-items/tea-bag.md)
-* [茶具](blocks-items/tea-set.md)
-* [防寒层](blocks-items/insulating-layer.md)
-* [纱](blocks-items/gauze.md)
-* [水袋](blocks-items/water-bag.md)
-* [手炉](blocks-items/handwarmer.md)
-* [坑](blocks-items/hole.md)
+* [Bamboo Tray](blocks-items/bamboo-tray.md)
+* [Stove](blocks-items/stove.md)
+* [Drink Maker](blocks-items/drink-maker.md)
+* [Porcelain Teapot](blocks-items/porcelain-teapot.md)
+* [Tea Plant](blocks-items/tea-plant.md)
+* [Catapult Board](blocks-items/catapult-board.md)
+* [Filter Screen](blocks-items/filter-screen.md)
+* [Wooden Frame](blocks-items/wooden-frame.md)
+* [Bamboo Decorations](blocks-items/bamboo-decorations.md)
+* [Ash](blocks-items/ash.md)
+* [Tea Leaves](blocks-items/tea-leaves.md)
+* [Tea Residue](blocks-items/tea-residue.md)
+* [Tea Bags](blocks-items/tea-bag.md)
+* [Tea Set](blocks-items/tea-set.md)
+* [Insulating Layer](blocks-items/insulating-layer.md)
+* [Gauze](blocks-items/gauze.md)
+* [Water Bag](blocks-items/water-bag.md)
+* [Handwarmer](blocks-items/handwarmer.md)
+* [Hole](blocks-items/hole.md)
 
-## 流体 <a id="fluids"></a>
+## Fluids <a id="fluids"></a>
 
-* [温水](fluids/warm-water.md)
-* [沸水](fluids/boiling-water.md)
-* [糖水](fluids/sugary-water.md)
-* [绿茶](fluids/green-tea.md)
-* [红茶](fluids/black-tea.md)
-* [白茶](fluids/white-tea.md)
+* [Warm Water](fluids/warm-water.md)
+* [Boiling Water](fluids/boiling-water.md)
+* [Sugary Water](fluids/sugary-water.md)
+* [Grenn Tea](fluids/green-tea.md)
+* [Black Tea](fluids/black-tea.md)
+* [White Tea](fluids/white-tea.md)
 
-## 状态效果 <a id="effects"></a>
+## Potion Effects <a id="effects"></a>
 
-* [云身](effects/agility.md)
-* [生命汲取](effects/life-drain.md)
-* [金钟罩](effects/impenetrable-defence.md)
-* [光合作用](effects/photosynthesis.md)
-* [提神](effects/excitement.md)
+* [Agility](effects/agility.md)
+* [Life Drain](effects/life-drain.md)
+* [Impenetrable Defence](effects/impenetrable-defence.md)
+* [Photosynthesis](effects/photosynthesis.md)
+* [Excitement](effects/excitement.md)
 
-## 机制与玩法 <a id="features"></a>
+## Mechanics and Gameplay <a id="features"></a>
 
-* [温度、降水量与湿度系统](features/humid.md)
-* [体感温度系统](features/player-temperature.md)
-* [作物环境系统](features/crops.md)
-* [花朵杂交系统](features/flower-hybridization.md)
+* [Environment System](features/humid.md)
+* [Apparent Temperature System](features/player-temperature.md)
+* [Crop Environment System](features/crops.md)
+* [Flower Hybridization System](features/flower-hybridization.md)
