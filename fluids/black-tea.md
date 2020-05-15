@@ -1,24 +1,25 @@
-# 红茶 Black Tea
+# Black Tea
 
-> 沏茶配方请使用JEI模组查询！
+> Use JEI to discover all of the Tea-making recipes!
 
-**红茶（Black Tea）**
-由红茶干叶或茶包沏制，饮用可获得生命提升和提神效果。
+**Black Tea** is made from Dried Black Tea Leaves or Black Tea Bags.
 
-## 效果与时间关系
+Drinking it gives you Health Boost and Excitement potion effects.
 
-- 淡红茶：
+## Effects after drinking
 
-  生命提升Ⅰ级效果，每1mB对应4ticks。
+- Light Black Tea：
 
-- 红茶：
+  Health Boost Ⅰ, each 1 mB for 4 ticks effect durations.
 
-  生命提升Ⅱ级效果，每1mB对应4ticks；
+- Black Tea：
+
+  Health Boost Ⅱ, each 1 mB for 4 ticks effect durations.  
   
-  提神效果，每1mB对应4ticks。
+  Excitements, each 1 mB for 4 ticks effect durations.  
 
-- 浓红茶：
+- Strong Black Tea：
 
-  生命提升Ⅲ级效果，每1mB对应4ticks；
+  Health Boost Ⅲ, each 1 mB for 4 ticks effect durations.  
   
-  提神效果，每1mB对应8ticks。
+  Excitements, each 1 mB for 8 ticks effect durations.  
