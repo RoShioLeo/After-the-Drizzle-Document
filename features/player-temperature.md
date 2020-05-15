@@ -1,97 +1,120 @@
-# 体感温度系统
+# Apparent Temperature System
 
-> 目前该系统正处于初步试验阶段，不保证该系统完全运行正常！
+> Now this system is WIP, and it might can not work perfectly!
 
-**体感温度系统（Apparent Temperature System）**
-是模组根据温度、降水量与湿度系统而引入的玩家体温系统。
+**Apparent Temperature System** is a mechanic added by the *After the Drizzle* Mod,
 
-## 定义
+which is based on the Environmental System, and influences your survival gameplay.
 
-**玩家体感温度**（以下简称“体温”），其分级与[温度系统](humid.md)一致，每2.5秒更新一次。
+## What is that
 
-**环境体感温度**，即当前环境实际温度在结合湿度系数后，得到的玩家实际感觉的环境温度，其分级与[温度系统](humid.md)一致。
+**Player's Apparent Temperature**, or **PAT** in short, 
 
-![各级玩家体感温度图标](../.gitbook/assets/descriptions/temperature.png)
+is divided into 6 levels which is the same as the [Temperature System](humid.md), and is updated per 2.5 seconds.
 
-## 说明
+**Environmental Apparent Temperature**, or **EAT** in short, 
 
-> 以下内容保证在 0.1.20-Beta-1.14.4 及以后版本适用，旧版本修改前内容请移至末尾查看。
+is divided into 6 levels which is the same as the [Temperature System](humid.md), 
 
-- 体温增减：
+and is calculated from the environmental temperature and humid.
 
-  当目前该区域环境体感温度高于玩家体感温度时，玩家升温；反之，降温。
+![Icons of all levels of PAT](../.gitbook/assets/descriptions/temperature.png)
 
-- 防寒/耐热值
+## Description(For 0.1.20-Beta-1.14.4 version and newer)
 
-  0.1.20-Beta 版本起，加入了防寒/耐热值，使用相应物品，可使玩家在恶劣环境下生存。
+> For older versions before 0.1.20-Beta-1.14.4, skip the contents below and go to the end.
 
-  每一点防寒/耐热值，可使玩家的耐受温度范围扩大1级（耐热向上，防寒向下）。
+- PAT changes：
 
-- 流体：
+  If you are in a position where EAT is higher than yout current PAT, your PAT will rise, and vise versa.
 
-  当玩家泡在流体中时，忽视环境体感温度，直接以流体实际温度计算。
+- Cold/Heat Resistance
 
-- 取暖：
-
-  玩家所处位置的最低温度与当前位置**方块亮度**相关，如下表：
-
-  | 方块亮度范围 | 该位置最低温度 |
-  |---------------|------------------|
-  |         15         |          炎热         |
-  |     11 ~ 14    |           温暖         |
-  |      8 ~ 10     |           凉爽         |
-
-- 地底（仅主世界）：
-
-  当玩家Y轴高度低于45，且看不见天空时，环境体感温度最低为凉爽。但此时温度计显示的仍为实际的环境体感温度。
-
-- 日最高与最低气温：
-
-  当日最低气温出现在3:00（对应游戏刻21000ticks）,最高气温出现在14:00（对应游戏刻8000ticks）
-
-- 日气温波动：
-
-  该地区日气温波动幅度由[湿度](humid.md)所决定。湿度越大，波动越小；湿度越小，波动越大。雨天气温波动减半。
-
-  若玩家处在雨中，则用于计算的湿度等级上升一级。
+  For 0.1.20-Beta and newer version, Cold/Heat Resistance is added into the game.
   
-  对于无昼夜循环的维度（如下界与末地），无气温波动。
+  equipped with related items, you can survive in tougher environments(biomes).
 
-- 过冷或过热的负面效果
+  Each point of Cold/Heat Resistance gives you the ability to survive in 1 lower/higher temperature level.
 
-  | 体感温度 | 负面效果 |
+- Fluids:
+
+  If you are in some fluid, EAT will be ignored, but use the temperature of the fluid instead.
+
+- Light:
+
+  The *lowest* EAT level of the position you are standing is related to the light level of that position,
+  
+  as the table below shows:
+
+  | Light Level Range | Lowest EAT |
+  |---------------|------------------|
+  |         15         |          Hot         |
+  |     11 ~ 14    |           Warm        |
+  |      8 ~ 10     |           Cool         |
+
+- Underground：
+
+  Only when you are in the Overworld will this feature be enabled.
+  
+  If you are at a position, where Y coordinate is lower than 45 and you cannot see the sky,
+  
+  Your EAT will not be lower than Cool. But Thermometers will still show the EAT as if this rule did not exist.
+
+- Daily highest and lowest temperatures
+
+  Daily lowest temperature comes at 3:00(21000 ticks), while the highest temperature comes at 14:00(8000 ticks)
+
+- Daily temperature fluctuation:
+
+  The magnitude of temperature fluctuations in an area is decided by [Humid](humid.md) of that area.
+  
+  The greater the humidity, the smaller the magnitude is, and vice versa.
+  
+  If it is rain, daily magnitude of temperature fluctuations will decrease for 50%.
+
+  If you are in the rain, the Humid level will +1 when calculating your EAT.
+  
+  A dimension where is no daylight cycle, such as the Nether and the End, will not see the temperature fluctuation.
+
+- Too high or too low PAT will bring you debuffs.
+
+  | PAT | Debuff |
   |----------|-----------|
-  |    冰冻   | 饥饿Ⅱ，缓慢Ⅱ，每四秒获得4点伤害 |
-  |    寒冷   | 饥饿Ⅰ，缓慢Ⅰ |
-  |    炎热   | 反胃，缓慢Ⅰ |
-  |    炙烤   | 反胃，缓慢Ⅰ，每五秒获得4点伤害 |
+  |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get 4-point damaged per 4 second |
+  |    Cold   | Hunger Ⅰ, Slowness Ⅰ |
+  |    Hot   | Nausea, Slowness Ⅰ |
+  |    Heat   | Nausea, Slowness Ⅰ, and get 4-point damaged per 5 second |
 
-  防火效果可以阻止玩家中暑。
+  Fire Resistance potion effect can protect you from Hot and Heat debuffs.
 
-  冻伤与中暑伤害无视护甲。
+  Damage dealt by Freezing and Heat temperature ignores armor.
 
-## 旧版本说明
+## Description for older version
 
-> 以下内容为 0.1.17c-Alpha-1.14.4 及以前版本适用。若无说明，则与最新说明一致，或未加入。
+> Descriptions below is for 0.1.17c-Alpha-1.14.4 or older versions. If no special instructions to some feature, either the feature is the same as the newer version, or the feature is not added into the game yet.
 
-- 取暖：
+- Light:
 
-  当玩家所处区域**方块亮度**不低于8时，环境体感温度最低为温暖。
+  If your position's Block Light Level is higher than 8, your EAT will not be lower than Warm.
 
-- 地底（所有世界）：
+- Underground：
 
-  当玩家Y轴高度低于45，且看不见天空时，环境体感温度最低为凉爽。但此时温度计显示的仍为实际的环境体感温度。
+  ~~Only when you are in the Overworld will this feature be enabled.~~ This rule is enabled in any dimension.
+  
+  If you are at a position, where Y coordinate is lower than 45 and you cannot see the sky,
+  
+  Your EAT will not be lower than Cool. But Thermometers will still show the EAT as if this rule did not exist.
+- Daily highest and lowest temperatures
 
-- 日最高与最低气温：
+  Daily lowest temperature comes at 6:00(0 tick), while the highest temperature comes at 14:00(8000 ticks).
 
-  当日最低气温出现在6:00（对应游戏刻0ticks）,最高气温出现在14:00（对应游戏刻8000ticks）
 
-- 过冷或过热的负面效果
+- - Too high or too low PAT will bring you debuffs.
+  | PAT | Debuff |
+  |----------|-----------|
+  |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get cold damage |
+  |    Cold   | Hunger Ⅱ, Slowness Ⅱ |
+  |    Hot   | Nausea, Slowness Ⅱ |
+  |    Heat   | Nausea, Slowness Ⅱ, and get heatstroke damage |
 
-  当玩家处于寒冷状态时，会获得缓慢Ⅱ与饥饿Ⅱ效果；
-  当玩家处于冰冻状态时，还会持续受到冻伤伤害。
-
-  当玩家处于炎热状态时，会获得缓慢Ⅱ与反胃效果；
-  当玩家处于炙烤状态时，还会持续受到中暑伤害。
-
-  防火效果可以阻止玩家中暑。
+  Fire Resistance potion effect can protect you from Hot and Heat debuffs.
