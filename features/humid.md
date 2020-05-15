@@ -68,7 +68,7 @@ For "Rainfall and Temperature" column, the 2-digit number means：
 The left digit means Rainfall Level number, the other digit means Temperature Level number.
 
 | Humid Level | Rainfall and Temperature |
-|------|------------------------|------|
+|------|------|
 | Arid | 11，12，13，14，15，16，24，25，26 |
 | Dry | 21，22，23，31，35，36 |
 | Moderate | 32，33，34，41，42，46，51 |
