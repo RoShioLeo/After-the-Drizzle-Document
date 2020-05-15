@@ -1,60 +1,64 @@
-# 花朵杂交系统
+# Flower Hybridization System
 
-**花朵杂交系统（Flower Hybridization System）**
-是模组引入的一种新的玩法，每种花均可合成对应颜色两个染料。
+**Flower Hybridization System** is a new mechanics added by *After the Drizzle* Mod.
 
-## 花朵
+Each AtD Mod's flower can be crafted into 2 corresponding dyes.
 
-- 菊花：
-  - 自然生成环境：
-    - 温度：~温暖；
-    - 湿度：干燥~湿润；
-- 百日菊：
-    - 温度：凉爽~炎热；
-    - 湿度：稀少~；
-- 风信子：
-    - 温度：~温暖；
-    - 湿度：干燥~湿润；
+## Flowers
 
-![可以自然生成的几种花](../.gitbook/assets/blocks-items/flowers.png)
+- Chrysanthemum:
+  - Naturally generated in these biomes:
+    - Temperature: ~ Warm
+    - Humid：Dry ~ Moist
+- Zinnia:
+  - Naturally generated in these biomes:
+    - Temperature: Cool ~ Hot
+    - Humid：Arid ~
+- Hyacinth: 
+  - Naturally generated in these biomes:
+    - Temperature：~ Warm；
+    - Humid：Dry ~ Moist
 
-## 杂交机制
+![Naturally Generated Flowers](../.gitbook/assets/blocks-items/flowers.png)
 
-- 每种花均有16种花色，可自然生成的花色有白色，红色，黄色和蓝色。
+## Hybridization Mechanic
 
-  ![全部花朵](../.gitbook/assets/descriptions/flowers.png)
+- Each type of flower has 16 colors. Only white, red, yellow and blue ones will naturally generated.
 
-- 自交或同色杂交，产生同种颜色。
-任何不在下面的花色杂交，均产生黑色。
+  ![All Flowers](../.gitbook/assets/descriptions/flowers.png)
 
-- 使用骨粉或灰烬右键花朵，即可使花朵繁殖。
+- Hybridize 2 flowers with the same color, or any flower with itself, will get a flower with the same color.
 
-#### 一级杂交：
+- If the 2 flowers's color do not match any color pairs listed below, hybridizing them will get a black flower.
 
-- 白色+红色=粉色
+- Right-clicking flowers with Bone Meal or Ash will make them to breed.
 
-- 白色+蓝色=浅蓝色
+#### Tier 1 Hybridization
 
-- 红色+黄色=橙色
+- White + Red = Pink
 
-- 红色+蓝色=紫色
+- White + Blue = Light Blue
 
-- 黄色+蓝色=绿色
+- Red + Yellow = Orange
 
-#### 二级杂交：
+- Red + Blue = Purple
 
-- 白色+黑色=灰色
+- Yellow + Blue = Green
 
-- 粉色+紫色=品红色
+#### Tier 2 Hybridization
 
-- 橙色+红色=棕色
+- White + Black = Gray
 
-- 绿色+蓝色=青色
+- Pink + Purple = Magenta
 
-- 绿色+黄色=黄绿色
+- Orange + Red = Brown
 
-- 绿色+白色=黄绿色
+- Green + Blue = Cyan
 
-#### 三级杂交：
+- Green + Yello = Lime
 
-- 灰色+白色=浅灰色
+- Green + White= Lime
+
+#### Tier 3 Hybridization
+
+- Gray + White = Light Gray
