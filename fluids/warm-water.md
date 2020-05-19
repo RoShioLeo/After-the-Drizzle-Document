@@ -1,9 +1,10 @@
-# 温水 Warm Water
+# Warm Water
 
-**温水（Warm Water）**
-是比冷水稍热一点的水，生物在其中会获得生命恢复Ⅰ效果。
+**Warm Water** is heated water, but not too hot.
 
-## 获得方法
-- 当前版本下，温水并不会自然生成。
-- 由于BUG的存在，除了由沸水冷却，无法直接获得温水。
-- 热水或沸水会在自然状态下，缓慢冷却，直到变成冷水；在温水下隔一格，放置点燃的篝火，会使温水保持状态。
+Any mobs and players touching it will get Regeneration Ⅰ potion effect.
+
+## How to get
+- In the latest version, Warm Water is not generated naturally.
+- Due to some bugs, the only way to get Warm Water is let Boiling Water to cool down.
+- Warm Water and Boiling Water will slowly cool down and turn into normal water. But putting a lit campfire under the block which is below the Warm Water will keep the Warm Water warm.

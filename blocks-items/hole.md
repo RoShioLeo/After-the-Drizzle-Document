@@ -1,12 +1,11 @@
-# 坑 Hole
+# Hole
 
-**坑（Hole）**
-是自然生成的一种方块，挖掘可获得物品。
+**Hole** is a block generated naturally. Mining them will get some items.
 
-![坑](../.gitbook/assets/blocks-items/hole.png)
+![Hole](../.gitbook/assets/blocks-items/hole.png)
 
-## 说明
+## What is it
 
-坑有很小概率在野外生成。
+Holes generated in the wild with tiny amount of probability.
 
-由于目前仅能挖掘到竹子，故仅在湿度为湿润及以上的地区生成。
+Since it only contains Bamboo now, it is generated in areas where Humid is above Moderate.

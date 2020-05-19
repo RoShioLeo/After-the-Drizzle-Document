@@ -1,24 +1,25 @@
-# 白茶 White Tea
+# White Tea
 
-> 沏茶配方请使用JEI模组查询！
+> Use JEI to discover all of the Tea-making recipes!
 
-**白茶（White Tea）**
-由白茶干叶沏制，饮用可获得急迫和提神效果。
+**White Tea** is made from Dried White Tea Leaves.
 
-## 效果与时间关系
+Drinking it gives you Haste and Excitement potion effects.
 
-- 淡白茶：
+## Effects after drinking
 
-  急迫Ⅰ级效果，每1mB对应2ticks。
+- Light White Tea：
 
-- 白茶：
+  Haste Ⅰ, each 1 mB for 2 ticks effect durations.
 
-  急迫Ⅱ级效果，每1mB对应2ticks；
+- White Tea：
+
+  Haste Ⅱ, each 1 mB for 2 ticks effect durations.  
   
-  提神效果，每1mB对应2ticks。
+  Excitements, each 1 mB for 2 ticks effect durations.  
 
-- 浓白茶：
+- Strong White Tea：
 
-  急迫Ⅲ级效果，每1mB对应2ticks；
+  Haste Ⅲ, each 1 mB for 2 ticks effect durations.  
   
-  提神效果，每1mB对应4ticks。
+  Excitements, each 1 mB for 4 ticks effect durations.  

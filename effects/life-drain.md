@@ -1,26 +1,27 @@
-# 生命汲取 Life Drain
+# Life Drain
 
-> 暂时还未加入可以获得该效果的茶饮。
+> The way to get this effect is still not added to the game yet at present.
 
-**生命汲取（Life Drain）**
-是模组加入的一种药水效果，有概率在攻击别人时汲取对方血量。
+**Life Drain**  is one of potion effects added by the *After the Drizzle* Mod.
 
-![生命汲取图标](../.gitbook/assets/effects/life_drain.png)
+With this effect, you have a chance to drain health from what you deal damaged to.
 
-## 说明
+![Icon of Life Drain effect](../.gitbook/assets/effects/life_drain.png)
 
-- 汲取概率与效果等级关系：
+## Description
 
-  汲取概率 = 效果等级 * 20%
+- The probability of draining is related to the effect's level:
 
-- 汲取血量与效果等级关系：
+  The probability of draining = effect's level * 20%
 
-  汲取血量 = 4.0 - 6.0 / (效果等级 + 1)
+- The amount of health you drain is related to the effect's level:
 
-- 通过茶饮获得的各级效果：
+  The amount of health you drain = 4.0 - 6.0 / (effect's level + 1)
 
-  生命汲取Ⅰ，汲血几率为20%，汲取血量1点。
+- Each effect level and its corresponding effect is listed below:
 
-  生命汲取Ⅱ，汲血几率为40%，汲取血量2点。
+  Life Drain Ⅰ, probability of draining - 20%, amount of draining - 1 point, or 1/2 :heart:
 
-  生命汲取Ⅲ，汲血几率为60%，汲取血量2.5点
+  Life Drain Ⅱ, probability of draining - 40%, amount of draining - 2 points, or 1 :heart:
+
+  Life Drain Ⅲ, probability of draining - 60%, amount of draining - 2.5 point, or 1.25 :heart:

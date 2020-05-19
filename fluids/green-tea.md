@@ -1,24 +1,25 @@
-# 绿茶 Green Tea
+# Green Tea
 
-> 沏茶配方请使用JEI模组查询！
+> Use JEI to discover all of the Tea-making recipes!
 
-**绿茶（Green Tea）**
-由绿茶干叶或茶包沏制，饮用可获得云身和提神效果。
+**Green Tea** is made from Dried Green Tea Leaves or Green Tea Bags.
 
-## 效果与时间关系
+Drinking it gives you Agility and Excitement potion effects.
 
-- 淡绿茶：
+## Effects after drinking
 
-  云身Ⅰ级效果，每1mB对应2ticks。
+- Light Green Tea：
 
-- 绿茶：
+  Agility Ⅰ, each 1 mB for 2 ticks effect durations.
 
-  云身Ⅱ级效果，每1mB对应2ticks；
+- Green Tea：
+
+  Agility Ⅱ, each 1 mB for 2 ticks effect durations.  
   
-  提神效果，每1mB对应2ticks。
+  Excitements, each 1 mB for 2 ticks effect durations.  
 
-- 浓绿茶：
+- Strong Black Tea：
 
-  云身Ⅲ级效果，每1mB对应2ticks；
+  Agility Ⅲ, each 1 mB for 2 ticks effect durations.  
   
-  提神效果，每1mB对应4ticks。
+  Excitements, each 1 mB for 4 ticks effect durations.  

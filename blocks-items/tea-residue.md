@@ -1,11 +1,10 @@
-# 茶叶渣 Tea Residue
+# Tea Residue
 
-**茶叶渣（Tea Residue）**
-是一种由茶叶获得的残渣，仅能用作堆肥。
+**Tea Residue** is an item from tea-making. Its only usage is composting.
 
-![茶叶渣](../.gitbook/assets/blocks-items/tea_residues.png)
+![Tea Residue](../.gitbook/assets/blocks-items/tea_residues.png)
 
-## 获取与用途
-
-- 沏茶或竹匾内茶叶被打湿均可获得茶叶渣。
-- 堆肥概率：50%
+## How to get
+Making tea, or letting Tea Leaves be in a Bamboo Tray which is in In-Rain Mode, will produce Tea Residue.
+## How to use
+1 Tea Residue has 50% chance to add a layer of compost in a Composter.

@@ -1,27 +1,29 @@
-# 茶树（Tea Plant）
+# Tea Plant
 
-## （野生）茶树 \(Wild\) Tea Plant
+## (Wild) Tea Plant
 
-**茶树（Tea Plant）** 是一种生长于湿润到潮湿环境的作物，靠近时会使玩家减速。
+**Tea Plants** are crops growing in Moist and Humid area.
 
-![野生茶树](../.gitbook/assets/blocks-items/wild_tea_plant.png)
+It slows down players trying to go through it.
 
-## 自然生成
+![Wild Tea Plants](../.gitbook/assets/blocks-items/wild_tea_plant.png)
 
-野生茶树会自然生成于湿度级别大于等于湿润的生物群系。
+## Wild Tea Plants
 
-打掉会掉落2~4个茶叶和1~2个茶籽。
+Wild Tea Plants generated in biomes whose Humid is above Moderate.
 
-## 生长习性
+Mining them will get 2-4 Tea Leaves and 1-2 Tea Tea Seeds.
 
-* **适宜湿度**：湿润~潮湿
-* **生长阶段**：
-  * 种子、幼苗、植株（小）、植株（大）、茂盛、开花、结籽；
-  * 自然状态下，除非使用骨粉，否则茶树不会进入开花状态。
+## Tea Plants Growing
 
-![茶树生长的各个阶段](../.gitbook/assets/descriptions/tea_plant.png)
+* **Proper Humid**：Above Moderate
+* **Growth Stages**：
+  * Seed, Sapling, Small Plant, Big Plant, Flourishing, Blooming, Setting Seeds.
+  * Tea Plants will not come to Blooming stage until it is applied with Bone Meal.
 
-## 采摘
+![All Stages in Tea Plant Growing](../.gitbook/assets/descriptions/tea_plant.png)
 
-在茂盛或结籽状态右键茶树即可采摘。
+## How to harvest
+
+Right-clicking a Tea Plant in Flourishing or Setting Seeds stage will harvest from it.
 

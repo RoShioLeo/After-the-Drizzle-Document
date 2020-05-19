@@ -1,16 +1,17 @@
-# 茶包 Tea Bag
+# Tea Bag
 
-> 沏茶配方请使用JEI模组查询！
+> Please use JEI to discover all Tea-making recipes!
 
-**茶包（Tea Bag）**
-是一种用于高效沏茶的物品，目前仅有绿茶茶包和红茶茶包。
+**Tea Bag** is used for conviniently tea-making.
 
-![现有的几种茶包](../.gitbook/assets/blocks-items/tea_bag.png)
+Now there are 2 variants of Tea Bags: Green Tea Bags and Black Tea Bags.
 
-## 合成
+![Tea Bags now](../.gitbook/assets/blocks-items/tea_bag.png)
 
-![线 * 1 + 纸 * 6 → 空茶包 * 3](../.gitbook/assets/recipes/empty_tea_bag_recipe.png)
+## How to craft
 
-![空茶包 * 1 + 绿茶干叶 * 3 → 绿茶茶包 * 1](../.gitbook/assets/recipes/green_tea_bag_recipe.png)
+![String * 1 + Paper * 6 → Empty Tea Bags * 3](../.gitbook/assets/recipes/empty_tea_bag_recipe.png)
 
-![空茶包 * 1 + 红茶干叶 * 3 → 红茶茶包 * 1](../.gitbook/assets/recipes/black_tea_bag_recipe.png)
+![Empty Tea Bags * 1 + Dried Green Tea Leaves * 3 → Green Tea Bag * 1](../.gitbook/assets/recipes/green_tea_bag_recipe.png)
+
+![Empty Tea Bags * 1 + Dried Black Tea Leaves * 3 → Black Tea Bag * 1](../.gitbook/assets/recipes/black_tea_bag_recipe.png)

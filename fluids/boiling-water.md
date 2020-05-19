@@ -1,8 +1,11 @@
-# 沸水 Boiling Water
+# Boiling Water
 
-**沸水（Boiling Water）**
-是达到沸点的热水，可以用来沏茶。温度超过温水的水都会对其中的生物造成伤害，温度越高，伤害越大。
+**Boiling Water** is water whose temperature is at boiling point, which can be used for tea-making.
 
-## 获得方法
-- 用白瓷壶灌冷水，可以放在点燃的炉灶上加热，获得沸水。
-- 用熔炉烧制水桶可获得沸水桶。
+If temperature of water is higher than warm water's, it can deal damage to any mobs touching it.
+
+The higher the temperature, the more damage it can deal.
+
+## How to get
+- Put a Porcelain Teapot filled with water on a lit Stove, and the water in the teapot will be boiled and become Boiling Water.
+- Smelt a Water Bucket in furnace, then you will get a Boiling Water Bucket.

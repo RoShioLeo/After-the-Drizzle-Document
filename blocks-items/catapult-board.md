@@ -1,24 +1,28 @@
-# 弹射板 Catapult Board
+# Catapult Board
 
-**弹射板（Catapult Board）**
-是一种可以弹射实体的方块，共有三种质地。
+**Catapult Board**
+is a utility block which can catapult entities.
 
-![三种不同质地的弹射板](../.gitbook/assets/blocks-items/catapult_board.png)
+It has 3 different variants.
 
-## 合成
+![3 variants of Catapult Board](../.gitbook/assets/blocks-items/catapult_board.png)
 
-![任意石头 * 2 + 石头 * 6 + 红石粉 * 1 → 石制弹射板 * 1](../.gitbook/assets/recipes/stone_catapult_board_recipe.png)
+## How to craft
 
-![任意石头 * 2 + 竹板 * 6 + 红石粉 * 1 → 竹制弹射板 * 1](../.gitbook/assets/recipes/bamboo_catapult_board_recipe.png)
+![Any type of Stone * 2 + Stone * 6 + Redstone Dust * 1 → Stone Catapult Board * 1](../.gitbook/assets/recipes/stone_catapult_board_recipe.png)
 
-![任意石头 * 2 + 铁锭 * 6 + 红石粉 * 1 → 铁制弹射板 * 1](../.gitbook/assets/recipes/iron_catapult_board_recipe.png)
+![Any type of Stone * 2 + Bamboo Planks * 6 + Redstone Dust * 1 → Bamboo Catapult Board * 1](../.gitbook/assets/recipes/bamboo_catapult_board_recipe.png)
 
-## 用途
+![Any type of Stone * 2 + Iron * 6 + Redstone Dust * 1 → Iron Catapult Board * 1](../.gitbook/assets/recipes/iron_catapult_board_recipe.png)
 
-当弹射板被红石激活后，会将方块上的实体弹射出去。弹射距离由实体种类和弹射板的质地共同决定。
+## How to use
 
-![物品实体的弹射距离（供图：MalayP）](../.gitbook/assets/descriptions/catapult_board_0.png)
+When it is redstone-activated, Catapult Boards will catapult the entity on it.
 
-![生物实体的弹射距离（供图：MalayP）](../.gitbook/assets/descriptions/catapult_board_1.png)
+The range of the Catapult Board is decided by the types both catapulted entity's and the Catapult Board itself's.
 
-此外，竹匾可以放在石制弹射板上，组成[自动化竹匾](blocks-items/bamboo-tray.md)。
+![Range when catapulting a drop item entity(Screenshot by MalayP)](../.gitbook/assets/descriptions/catapult_board_0.png)
+
+![Range when catapulting a mob(Screenshot by MalayP)](../.gitbook/assets/descriptions/catapult_board_1.png)
+
+Besides, [Bamboo Trays](blocks-items/bamboo-tray.md) can be put on Stone Catapult Boards, making them automated.

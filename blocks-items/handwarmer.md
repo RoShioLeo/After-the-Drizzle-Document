@@ -1,24 +1,25 @@
-# 手炉 Handwarmer
+# Handwarmer
 
-**手炉（Handwarmer）**
-是模组加入一种的防寒用品。
+**Handwarmer** is an item providing the holder cold-resistant ability.
 
-![手炉](../.gitbook/assets/blocks-items/handwarmer.png)
+![Handwarmer](../.gitbook/assets/blocks-items/handwarmer.png)
 
-## 合成
+## How to craft
 
-![铁锭 * 5 + 铁粒 * 1 → 手炉 * 1](../.gitbook/assets/recipes/handwarmer_recipe.png)
+![Iron Ingots * 5 + Iron Nugget * 1 → Handwarmer * 1](../.gitbook/assets/recipes/handwarmer_recipe.png)
 
-## 使用
+## How to use
 
-- 暖和的手炉可提供2点防寒值，需手持（含副手）才可生效。
+- Warm Handwarmer provides the holder 2 points of cold-resistant, only when it is held in either hands.
 
-- 直接手持手炉右键，可以使用物品栏内的八个灰烬或两个炭快速装填；也可使用工作台合成。
+- Right-clicking with Handwarmer in hand will fill the Handwarmer with 8 Ash items, or 2 coal or charcoal items, and let it become a Warm one.
+
+You can craft them in Crafting Table, just like the recipe shown below.
 
   ![](../.gitbook/assets/recipes/handwarmer_ash_recipe.png)
   
   ![](../.gitbook/assets/recipes/handwarmer_coal_recipe.png)
 
-- 暖和的手炉可持续使用10分钟，之后会变为手炉。
+- Warm Handwarmer will keep warm for 10 minutes, then become Handwarmer.
 
-- 暖和的手炉仅在生效时才会消耗。
+- Warm Handwarmer will consume its duration only when it is held in hand.

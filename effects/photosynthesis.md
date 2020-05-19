@@ -1,22 +1,25 @@
-# 光合作用 Photosynthesis
+# Photosynthesis
 
-> 暂时还未加入可以获得该效果的茶饮。
+> The way to get this effect is still not added to the game yet at present.
 
-**光合作用（Photosynthesis）**
-是模组加入的一种药水效果，在光照大于等于某一程度（含夜晚）时，每三秒自动回血1点。
+**Photosynthesis** is one of potion effects added by the *After the Drizzle* Mod.
 
-![光合作用图标](../.gitbook/assets/effects/photosynthesis.png)
+With this effect, when you are in a position that light level is higher than a certain level,
 
-## 说明
+you will restore 1 point of health every 3 seconds.
 
-- 光照要求与效果等级关系：
+![Icon of Photosynthesis effect](../.gitbook/assets/effects/photosynthesis.png)
 
-  光照要求 = 15 - 效果等级 * 2
+## Description
 
-- 通过茶饮获得的各级效果：
+- The lowest light level needed to trigger the restoration is related to the potion effect's level.
 
-  光合作用Ⅰ，光照要求为13，每三秒回血1点；
+  lowest light level = 15 - effect level * 2
 
-  光合作用Ⅱ，光照要求为11，每三秒回血1点；
+- Each effect level and its corresponding effect is listed below:
 
-  光合作用Ⅲ，光照要求为9，每三秒回血1点。
+Photosynthesis Ⅰ, lowest required light level - 13, restore 1 point of health every 3 seconds.
+
+Photosynthesis Ⅱ, lowest required light level - 11, restore 1 point of health every 3 seconds.
+
+Photosynthesis Ⅲ, lowest required light level - 9, restore 1 point of health every 3 seconds.

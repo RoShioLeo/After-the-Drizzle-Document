@@ -1,17 +1,15 @@
-# 茶具 Tea Set
+# Tea Set
 
-**茶具（Tea Set）**
-是模组加入的具有不同容量的物品。
+**Tea Set** is a set of container items, with different capacity.
 
-![现有的几种茶具](../.gitbook/assets/blocks-items/tea_set.png)
+![Different Tea Set now](../.gitbook/assets/blocks-items/tea_set.png)
 
-## 合成
+## How to craft
 
-![粘土 * 3 → 粘土杯坯 * 1](../.gitbook/assets/recipes/clay_cup_recipe.png)
+![Clay Ball* 3 → Clay Cup * 1](../.gitbook/assets/recipes/clay_cup_recipe.png)
 
-![铁粒 * 1 + 玻璃板 * 5 → 水瓶 * 1](../.gitbook/assets/recipes/bottle_recipe.png)
+![Iron Nugget * 1 + Glass Pane * 5 → Bottle * 1](../.gitbook/assets/recipes/bottle_recipe.png)
 
-## 容量
-
-- 白瓷杯：250mB
-- 水瓶：500mB
+## Capacity
+- Porcelain Cups: 250mB (1/4 Bucket)
+- Bottles: 500mB (1/2 Bucket)

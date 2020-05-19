@@ -1,12 +1,13 @@
-# 糖水 Sugary Water
+# Sugary Water
 
-> 沏茶配方请使用JEI模组查询！
+> Use JEI to discover all of the Tea-making recipes!
 
-**糖水（Sugary Water）**
-由糖沏制，饮用可获得速度效果。
+**Sugary Water** is made from Sugar.
 
-## 效果与时间关系
+Drinking it gives you Speed potion effects.
 
-- 糖水：
+## Effects after drinking
 
-  速度Ⅰ级效果，每1mB对应2ticks。
+- Sugary Water:
+
+  SpeedⅠ, each 1 mB for 2 ticks effect durations.
