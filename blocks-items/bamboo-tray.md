@@ -63,7 +63,7 @@ The amount of time fermentation takes is decided by the Humid of that area.
 
 Put Bamboo Tray on a lit Stove, and it will be switched to Bake Mode.
 
-### ![](../.gitbook/assets/descriptions/process_mode.png) Process Mode(WIP)
+### ![](../.gitbook/assets/descriptions/process_mode.png) Process Mode (WIP)
 
 Put Bamboo Tray on a Wooden Frame, and it will be switched to Process Mode.
 
@@ -82,6 +82,6 @@ Put Bamboo Tray on Stone [Catapult Board](catapult-board.md) will automate it.
 
 If Stone Catapult Board is redstone-activated, every time the Bamboo Tray finishes one recipe,
 
-the product will be capculted 1 block far, towards the direction which the Catapult Board face to.
+the product will be catapulted 1 block far, towards the direction which the Catapult Board face to.
 
 You may put hoppers at that point to collect the products.
