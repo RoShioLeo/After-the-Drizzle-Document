@@ -16,13 +16,14 @@ description: 欢迎来到“细雨田园”（After the Drizzle）模组的官�
 
 **鸣谢**：MalayP、纪华裕
 
-**赞助鸣谢**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
+**赞助鸣谢**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [滑稽MUR
+](https://afdian.net/u/f2b697fe845411eab93552540025c377)、[祭曲](https://afdian.net/u/f9de6df845e411ea90b252540025c377)
 
 **百科维护**：RoitoLeonine
 
 百科内如未收录配方，请自行使用JEI（Just Enough Item）模组查询！
 
-尚未完善的地方可以通过[QQ群](https://jq.qq.com/?_wv=1027&k=5JyKMVJ)或[Discord](https://discord.gg/HhtVenq)咨询。
+尚未完善的地方可以通过[QQ群](https://jq.qq.com/?_wv=1027&k=5JyKMVJ)咨询。
 
 **本文档文本、图像内容等均按照
 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)

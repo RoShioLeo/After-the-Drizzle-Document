@@ -22,7 +22,7 @@
 
 - 每种花均有16种花色，可自然生成的花色有白色，红色，黄色和蓝色。
 
-  ![全部花朵](../.gitbook/assets/descriptions/flowers.png)
+![全部花朵](../.gitbook/assets/descriptions/flowers.png)
 
 - 自交或同色杂交，产生同种颜色。
 任何不在下面的花色杂交，均产生黑色。
