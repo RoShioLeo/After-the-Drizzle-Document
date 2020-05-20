@@ -10,6 +10,6 @@
 
 ## How to use
 
-Craft 3 Gauze items with a piece of armor will give it heat protection property.
+Craft 3 Gauze items with a piece of armor, and it will provide the player wearing it Heat Resistance.
 
 Every 2 pieces of armor with Gauze provide 1 point of Heat-resistant.
