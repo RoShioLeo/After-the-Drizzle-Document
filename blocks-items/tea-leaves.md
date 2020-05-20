@@ -1,4 +1,4 @@
-# 茶叶 Tea Leaves
+# Tea Leaves
 
 > Please use JEI to discover all Tea-making recipes!
 
