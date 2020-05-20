@@ -14,7 +14,7 @@
 
 - Right-click the Filter Screen with an empty hand to change direction it faced to.
 
-- Put a container block on the Filter Screen, and put some items into that container block, then the filter will stop any item entities but the items which is in that container from going through it. 
+- Put a container block on the Filter Screen, and put some items into that container block, then the filter will stop any item entities except entities of items in the container.
 
 The container on the Filter Screen acts as a whitelist. 
 
