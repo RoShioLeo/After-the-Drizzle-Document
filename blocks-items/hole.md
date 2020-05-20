@@ -1,6 +1,6 @@
 # Hole
 
-**Hole** is a block generated naturally. Mining them will get some items.
+**Hole** is a block generated naturally. Digging them will get some items.
 
 ![Hole](../.gitbook/assets/blocks-items/hole.png)
 
