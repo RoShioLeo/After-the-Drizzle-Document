@@ -10,7 +10,7 @@
 
 ## How to use
 
-- Warm Handwarmer provides the holder 2 points of cold-resistant, only when it is held in either hands.
+- Hot Handwarmer provides the holder 2 points of cold-resistant, only when it is held in either hands.
 
 - Right-clicking with Handwarmer in hand will fill the Handwarmer with 8 Ash items, or 2 coal or charcoal items, and let it become a Warm one.
 
