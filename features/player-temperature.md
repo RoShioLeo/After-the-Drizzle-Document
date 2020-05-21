@@ -35,6 +35,8 @@ and is calculated from the environmental temperature and humid.
   equipped with related items, you can survive in tougher environments(biomes).
 
   Each point of Cold/Heat Resistance gives you the ability to survive in 1 lower/higher temperature level.
+  
+  In *After the Drizzle* Mod version 0.1.26-Beta and later, a player without armor will gain 1 point of Heat Resistance.
 
 - Fluids:
 
@@ -51,6 +53,10 @@ and is calculated from the environmental temperature and humid.
   |         15         |          Hot         |
   |     11 ~ 14    |           Warm        |
   |      8 ~ 10     |           Cool         |
+  
+  In *After the Drizzle* Mod version 0.1.26-Beta and later, 
+  
+  in a hot place, if you move to a shadowed position, your PAT will become lower.
 
 - Underground：
 
