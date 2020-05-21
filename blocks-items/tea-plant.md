@@ -12,7 +12,7 @@ It slows down players trying to go through it.
 
 Wild Tea Plants generated in biomes whose Humid is above Moderate.
 
-Mining them will get 2-4 Tea Leaves and 1-2 Tea Tea Seeds.
+When broken, it will drop 2-4 Tea Leaves and 1-2 Tea Tea Seeds.
 
 ## Tea Plants Growing
 
