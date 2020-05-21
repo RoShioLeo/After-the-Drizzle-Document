@@ -1,22 +1,21 @@
-# 滤网 Filter Screen
+# 滤网
 
 > 该方块仍在试验中，可能会出现过滤效果不佳的情况！
 
-**滤网（Filter Screen）**
-是模组加入一种的用于定向过滤物品实体的方块。
+**滤网（Filter Screen）** 是模组加入一种的用于定向过滤物品实体的方块。
 
-![滤网](../.gitbook/assets/blocks-items/filter_screen.png)
+![&#x6EE4;&#x7F51;](../.gitbook/assets/filter_screen%20%281%29.png)
 
 ## 合成
 
-![木棍 * 4 + 线 * 4 + 红石粉 * 1 → 滤网 * 1](../.gitbook/assets/recipes/filter_screen_recipe.png)
+![&#x6728;&#x68CD; \* 4 + &#x7EBF; \* 4 + &#x7EA2;&#x77F3;&#x7C89; \* 1 &#x2192; &#x6EE4;&#x7F51; \* 1](../.gitbook/assets/filter_screen_recipe.png)
 
 ## 使用
 
-- 使用空手右击滤网可使滤网改变方向。
+* 使用空手右击滤网可使滤网改变方向。
+* 在滤网上方放置可存储物品的容器，并在其内放置物品，即可让该物品的实体通过滤网而不受阻拦。多个滤网在竖直方向上叠加时，都会以上方最近的容器作为白名单列表。
 
-- 在滤网上方放置可存储物品的容器，并在其内放置物品，即可让该物品的实体通过滤网而不受阻拦。多个滤网在竖直方向上叠加时，都会以上方最近的容器作为白名单列表。
+  ![&#x4E00;&#x4E2A;&#x7B80;&#x5355;&#x7684;&#x8FC7;&#x6EE4;&#x88C5;&#x7F6E;&#xFF0C;&#x53EF;&#x8FC7;&#x7F51;&#x7269;&#x54C1;&#x7531;&#x6700;&#x4E0A;&#x65B9;&#x5BB9;&#x5668;&#x5B58;&#x50A8;&#x6240;&#x51B3;&#x5B9A;](../.gitbook/assets/filter_screen.png)
 
-  ![一个简单的过滤装置，可过网物品由最上方容器存储所决定](../.gitbook/assets/descriptions/filter_screen.png)
+* 滤网不会阻拦其他实体穿过。
 
-- 滤网不会阻拦其他实体穿过。
