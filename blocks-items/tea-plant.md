@@ -10,13 +10,13 @@ It slows down players trying to go through it.
 
 ## Wild Tea Plants
 
-Wild Tea Plants generated in biomes whose Humid is above Moderate.
+Wild Tea Plants generated in biomes whose Humid is above Average.
 
 When broken, it will drop 2-4 Tea Leaves and 1-2 Tea Tea Seeds.
 
 ## Tea Plants Growing
 
-* **Proper Humid**：Above Moderate
+* **Proper Humid**：Above Average
 * **Growth Stages**：
   * Seed, Sapling, Small Plant, Big Plant, Flourishing, Blooming, Setting Seeds.
   * Tea Plants will not come to Blooming stage until it is applied with Bone Meal.
