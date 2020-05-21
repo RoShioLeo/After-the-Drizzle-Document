@@ -20,7 +20,8 @@ This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((ht
 
 **Special Credits**：MalayP, 纪华裕
 
-**Sponsors**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377), [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377), [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
+**Sponsors**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [滑稽MUR
+](https://afdian.net/u/f2b697fe845411eab93552540025c377)、[祭曲](https://afdian.net/u/f9de6df845e411ea90b252540025c377)
 
 **Wiki Maintenance**：RoitoLeonine, RisingInIris2017
 
