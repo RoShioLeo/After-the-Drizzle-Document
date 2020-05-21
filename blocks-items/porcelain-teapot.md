@@ -10,7 +10,7 @@
 
 ## How to use
 
-- Right-clicking fluid block will contain that fluid into the Teapot, except Lava. Then you can place the Teapot on the ground.
+- Right-clicking fluid block will contain that fluid into the Teapot, except Lava. You can place the Teapot on the ground.
 
 - Right-clicking a Teapot placed on the ground with a Teacup or a Bottle will fill them with tea which is in the Teapot.
 
