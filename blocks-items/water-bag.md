@@ -17,7 +17,7 @@
 Smelt a Water Bag in a furnace and you will get Hot Water Bag.
 
 ## How to use
-Water Bag always provides 1 point Heat resistant.
+Water Bag provides at most 1 point Heat resistant.
 
 Hot/Ice Water Bag provides 2 point Cold/Heat resistant. Simply put it in the hotbar, and it will be enabled.
 
