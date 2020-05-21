@@ -6,7 +6,7 @@ description: Welcome to English wiki of Minecraft Mod After the Drizzle!
 
 ![](.gitbook/assets/atd.png)
 
-This is the [Official English wiki](https://roitoleonine.gitbook.io/after-the-drizzle-wiki-simplified-chinese/) for Minecraft mod **_After the Drizzle_(AtD in short, "细雨田园" in Chinese)**.
+This is the [Official English wiki](https://roitoleonine.gitbook.io/after-the-drizzle-wiki/v/English/) for Minecraft mod **_After the Drizzle_(AtD in short, "细雨田园" in Chinese)**.
 
 This mod is in Alpha developing.
 
