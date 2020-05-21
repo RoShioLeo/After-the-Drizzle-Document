@@ -7,7 +7,7 @@ is a utility block used for making drinks.
 
 It takes 2-block space when it is placed, just like a Vanilla bed.
 
-It can contain 2000mB(2 Buckets) of fluid.
+It can contain 2000mB (2 Buckets) of fluid.
 
 ![Drink Maker](../.gitbook/assets/blocks-items/drink_maker.png)
 
@@ -17,6 +17,6 @@ It can contain 2000mB(2 Buckets) of fluid.
 
 ## How to interact
 
-Holding a container which is able to contain fluids(Vanilla Buckets, for example), and right-clicking the Drink Maker,
+Holding a fluid container (Vanilla Buckets, for example), and right-clicking the Drink Maker,
 
 will add fluid into the Drink Maker, or take fluid in the Drinker Maker out.

@@ -10,19 +10,16 @@ This is the [Official English wiki](https://roitoleonine.gitbook.io/after-the-dr
 
 This mod is in Alpha developing.
 
-You are welcome to support the developers on [Afdian platform](https://afdian.net/@roitoleonine), a Chinese version of Patreon.
-
-We will offer BIG hugs for our warmhearted sponsors.
-
 This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository]((https://github.com/lemon-slice-studio/After-the-Drizzle)))
 
-**Authors**：RoitoLeonine([Bilibili](https://space.bilibili.com/34398850), [GitHub](https://github.com/RoitoLeonine)), Gloridifice([Bilibili](https://space.bilibili.com/50966004/), [GitHub](https://github.com/gloridifice))
+**Authors**：RoitoLeonine ([GitHub](https://github.com/RoitoLeonine)), Gloridifice ([GitHub](https://github.com/gloridifice))
 
-**Special Credits**：MalayP, 纪华裕
+**Special Credits**：MalayP, jihuayu, RisingInIris2017
 
-**Sponsors**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377), [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377), [爱发电用户\_jaep](https://afdian.net/u/f2b697fe845411eab93552540025c377)
+**Sponsors**：[蓝色彗星](https://afdian.net/u/c95d2154899f11e8a38452540025c377)、 [山中迷路的小勘](https://afdian.net/u/b9739da0970911e88ef452540025c377)、 [滑稽MUR
+](https://afdian.net/u/f2b697fe845411eab93552540025c377)、[祭曲](https://afdian.net/u/f9de6df845e411ea90b252540025c377)
 
-**Wiki Maintenance**：RoitoLeonine
+**Wiki Maintenance**：RoitoLeonine, RisingInIris2017
 
 If any recipes are not included in this wiki, please use Just Enough Items mod to get their information!
 
