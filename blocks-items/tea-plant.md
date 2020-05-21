@@ -1,8 +1,8 @@
-# 茶树（Tea Plant）
+# 茶树
 
 **茶树（Tea Plant）** 是一种生长于湿润到潮湿环境的作物，靠近时会使玩家减速。
 
-![野生茶树](../.gitbook/assets/blocks-items/wild_tea_plant.png)
+![&#x91CE;&#x751F;&#x8336;&#x6811;](../.gitbook/assets/wild_tea_plant.png)
 
 ## 自然生成
 
@@ -17,7 +17,7 @@
   * 种子、幼苗、植株（小）、植株（大）、茂盛、开花、结籽；
   * 自然状态下，除非使用骨粉，否则茶树不会进入开花状态。
 
-![茶树生长的各个阶段](../.gitbook/assets/descriptions/tea_plant.png)
+![&#x8336;&#x6811;&#x751F;&#x957F;&#x7684;&#x5404;&#x4E2A;&#x9636;&#x6BB5;](../.gitbook/assets/tea_plant.png)
 
 ## 采摘
 

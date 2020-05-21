@@ -1,19 +1,18 @@
-# 水袋 Water Bag
+# 水袋
 
-**水袋（Water Bag）**
-是模组加入一种的防寒耐热用品。
+**水袋（Water Bag）** 是模组加入一种的防寒耐热用品。
 
-![水袋](../.gitbook/assets/blocks-items/water_bag.png)
+![&#x6C34;&#x888B;](../.gitbook/assets/water_bag.png)
 
 ## 合成
 
-![皮革 * 7 + 水桶 * 1（会返还桶） + 铁粒 * 1 → 水袋 * 1](../.gitbook/assets/recipes/water_bag_recipe.png)
+![&#x76AE;&#x9769; \* 7 + &#x6C34;&#x6876; \* 1&#xFF08;&#x4F1A;&#x8FD4;&#x8FD8;&#x6876;&#xFF09; + &#x94C1;&#x7C92; \* 1 &#x2192; &#x6C34;&#x888B; \* 1](../.gitbook/assets/water_bag_recipe.png)
 
-![水袋 * 1 + 雪球 * 3 → 冰水袋 * 1](../.gitbook/assets/recipes/ice_water_bag_snow_ball_recipe.png)
+![&#x6C34;&#x888B; \* 1 + &#x96EA;&#x7403; \* 3 &#x2192; &#x51B0;&#x6C34;&#x888B; \* 1](../.gitbook/assets/ice_water_bag_snow_ball_recipe.png)
 
-![水袋 * 1 + 雪块 * 1 → 冰水袋 * 1](../.gitbook/assets/recipes/ice_water_bag_snow_block_recipe.png)
+![&#x6C34;&#x888B; \* 1 + &#x96EA;&#x5757; \* 1 &#x2192; &#x51B0;&#x6C34;&#x888B; \* 1](../.gitbook/assets/ice_water_bag_snow_block_recipe.png)
 
-![水袋 * 1 + 冰 * 1 → 冰水袋 * 1](../.gitbook/assets/recipes/ice_water_bag_ice_recipe.png)
+![&#x6C34;&#x888B; \* 1 + &#x51B0; \* 1 &#x2192; &#x51B0;&#x6C34;&#x888B; \* 1](../.gitbook/assets/ice_water_bag_ice_recipe.png)
 
 使用水袋在熔炉中烧制，即可获得热水袋。
 
@@ -26,3 +25,4 @@
 热水/冰水袋可持续使用5分钟，之后会变为水袋。
 
 热水/冰水袋仅在生效时才会消耗。
+
