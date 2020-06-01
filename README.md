@@ -46,7 +46,7 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
 * [Porcelain Teapot](blocks-items/porcelain-teapot.md)
   * Clay Teapot
 * Crops
-  * [(Wild) Tea Tree](blocks-items/tea-plant.md)
+  * [(Wild) Tea Plant](blocks-items/tea-plant.md)
 * [Catapult Board](blocks-items/catapult-board.md)
   * Stone Catapult Board
   * Bamboo Catapult Board
