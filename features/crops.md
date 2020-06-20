@@ -2,7 +2,7 @@
 
 **Crop Environment System** is a mechanics added by the *After the Drizzle* Mod,
 
-which is based on [湿度](humid.md#Humid) system, and influences your farming gameplay.
+which is based on [Humid](humid.md#Humid) system, and influences your farming gameplay.
 
 ## Description
 
