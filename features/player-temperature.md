@@ -32,7 +32,7 @@ and is calculated from the environmental temperature and humid.
 
   For 0.1.20-Beta and newer version, Cold/Heat Resistance is added into the game.
   
-  equipped with related items, you can survive in tougher environments(biomes).
+  Equipped with related items, you can survive in tougher environments (biomes).
 
   Each point of Cold/Heat Resistance gives you the ability to survive in 1 lower/higher temperature level.
   
@@ -68,7 +68,7 @@ and is calculated from the environmental temperature and humid.
 
 - Daily highest and lowest temperatures
 
-  Daily lowest temperature comes at 3:00(21000 ticks), while the highest temperature comes at 14:00(8000 ticks)
+  Daily lowest temperature comes at 3:00 (21000 ticks), while the highest temperature comes at 14:00 (8000 ticks)
 
 - Daily temperature fluctuation:
 
@@ -112,7 +112,7 @@ and is calculated from the environmental temperature and humid.
   Your EAT will not be lower than Cool. But Thermometers will still show the EAT as if this rule did not exist.
 - Daily highest and lowest temperatures
 
-  Daily lowest temperature comes at 6:00(0 tick), while the highest temperature comes at 14:00(8000 ticks).
+  Daily lowest temperature comes at 6:00 (0 tick), while the highest temperature comes at 14:00 (8000 ticks).
 
 
 - Too high or too low PAT will bring you debuffs.
