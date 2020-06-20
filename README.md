@@ -37,22 +37,22 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
 
 ## Blocks & Items
 
-* [Bamboo Trays](blocks-items/bamboo-tray.md)
+* [Bamboo Tray](blocks-items/bamboo-tray.md)
   * Automated bamboo trays
-* [Stoves](blocks-items/stove.md)
-  * Dirt Stoves
-  * Stone Stoves
-* [Drink Makers](blocks-items/drink-maker.md)
+* [Stove](blocks-items/stove.md)
+  * Dirt Stove
+  * Stone Stove
+* [Drink Maker](blocks-items/drink-maker.md)
 * [Porcelain Teapot](blocks-items/porcelain-teapot.md)
   * Clay Teapot
 * Crops
-  * [(Wild) Tea Trees](blocks-items/tea-plant.md)
+  * [(Wild) Tea Plant](blocks-items/tea-plant.md)
 * [Catapult Board](blocks-items/catapult-board.md)
   * Stone Catapult Board
   * Bamboo Catapult Board
   * Iron Catapult Board
-* [Filter Screens](blocks-items/filter-screen.md)
-* [Wooden Frames](blocks-items/wooden-frame.md)
+* [Filter Screen](blocks-items/filter-screen.md)
+* [Wooden Frame](blocks-items/wooden-frame.md)
 * Bamboo Planks
 * [Bamboo Decorations](blocks-items/bamboo-decorations.md)
   * Bamboo Chair
@@ -68,9 +68,9 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
   * Dried White Tea Leaves
 * [Tea Residue](blocks-items/tea-residue.md)
 * [Tea Bags](blocks-items/tea-bag.md)
-  * Empty Tea Bags
-  * Green Tea Bags
-  * Red Tea Bags
+  * Empty Tea Bag
+  * Green Tea Bag
+  * Red Tea Bag
 * [Tea-set](blocks-items/tea-set.md)
   * Porcelain Cup
     * Clay Cup
@@ -86,10 +86,10 @@ If any recipes are not included in this wiki, please use Just Enough Items mod t
   * [Insulating Layer](blocks-items/insulating-layer.md)
   * [Gauze](blocks-items/gauze.md)
   * [Water Bags](blocks-items/water-bag.md)
-    * Hot Water Bags
-    * Cool Water Bags
-  * [Handwarmers](blocks-items/handwarmer.md)
-* [Holes](blocks-items/hole.md)
+    * Hot Water Bag
+    * Cool Water Bag
+  * [Handwarmer](blocks-items/handwarmer.md)
+* [Hole](blocks-items/hole.md)
 
 ## Fluid
 
