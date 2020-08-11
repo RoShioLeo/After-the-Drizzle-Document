@@ -84,12 +84,12 @@ and is calculated from the environmental temperature and humid.
 
 - Too high or too low PAT will bring you debuffs.
 
-  | PAT | Debuff |
+  | PAT | Debuff ( Version 0.1.27 or later) |
   |----------|-----------|
   |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get 4-point damaged per 4 second |
   |    Cold   | Hunger Ⅰ, Slowness Ⅰ |
-  |    Hot   | Nausea, Slowness Ⅰ |
-  |    Heat   | Nausea, Slowness Ⅰ, and get 4-point damaged per 5 second |
+  |    Hot   | Hunger Ⅰ, Slowness Ⅰ |
+  |    Heat   | Hunger Ⅱ, Slowness Ⅱ, and get 4-point damaged per 5 second |
 
   Fire Resistance potion effect can protect you from Hot and Heat debuffs.
 
@@ -120,8 +120,8 @@ and is calculated from the environmental temperature and humid.
   | PAT | Debuff |
   |----------|-----------|
   |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get cold damage |
-  |    Cold   | Hunger Ⅱ, Slowness Ⅱ |
-  |    Hot   | Nausea, Slowness Ⅱ |
+  |    Cold   | Hunger Ⅰ, Slowness Ⅰ |
+  |    Hot   | Nausea, Slowness Ⅰ |
   |    Heat   | Nausea, Slowness Ⅱ, and get heatstroke damage |
 
 Fire Resistance potion effect can protect you from Hot and Heat debuffs.
