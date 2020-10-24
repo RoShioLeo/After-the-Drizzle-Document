@@ -2,11 +2,11 @@
 
 **Handwarmer** is an item providing the holder cold-resistant ability.
 
-![Handwarmer](../.gitbook/assets/blocks-items/handwarmer.png)
+![Handwarmer](../.gitbook/assets/handwarmer.png)
 
 ## How to craft
 
-![Iron Ingots * 5 + Iron Nugget * 1 → Handwarmer * 1](../.gitbook/assets/recipes/handwarmer_recipe.png)
+![Iron Ingots * 5 + Iron Nugget * 1 → Handwarmer * 1](../.gitbook/assets/handwarmer_recipe.png)
 
 ## How to use
 
@@ -16,9 +16,9 @@
 
 You can craft them in Crafting Table, just like the recipe shown below.
 
-  ![](../.gitbook/assets/recipes/handwarmer_ash_recipe.png)
+  ![](../.gitbook/assets/handwarmer_ash_recipe.png)
   
-  ![](../.gitbook/assets/recipes/handwarmer_coal_recipe.png)
+  ![](../.gitbook/assets/handwarmer_coal_recipe.png)
 
 - Warm Handwarmer will keep warm for 10 minutes, then become Handwarmer.
 

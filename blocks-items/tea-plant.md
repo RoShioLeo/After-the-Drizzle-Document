@@ -6,7 +6,7 @@
 
 It slows down players trying to go through it.
 
-![Wild Tea Plants](../.gitbook/assets/blocks-items/wild_tea_plant.png)
+![Wild Tea Plants](../.gitbook/assets/wild_tea_plant.png)
 
 ## Wild Tea Plants
 
@@ -21,7 +21,7 @@ When broken, it will drop 2~4 Tea Leaves and 1~2 Tea Tea Seeds.
   * Seed, Sapling, Small Plant, Big Plant, Flourishing, Blooming, Setting Seeds.
   * Tea Plants will not come to Blooming stage until it is applied with Bone Meal.
 
-![All Stages in Tea Plant Growing](../.gitbook/assets/descriptions/tea_plant.png)
+![All Stages in Tea Plant Growing](../.gitbook/assets/tea_plant.png)
 
 ## How to harvest
 

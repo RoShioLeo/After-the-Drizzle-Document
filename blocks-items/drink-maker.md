@@ -9,11 +9,11 @@ It takes 2-block space when it is placed, just like a Vanilla bed.
 
 It can contain 2000mB (2 Buckets) of fluid.
 
-![Drink Maker](../.gitbook/assets/blocks-items/drink_maker.png)
+![Drink Maker](../.gitbook/assets/drink_maker.png)
 
 ## How to craft
 
-![Any type of Planks * 3 + Sticks * 2 → Drink Maker * 1](../.gitbook/assets/recipes/drink_maker_recipe.png)
+![Any type of Planks * 3 + Sticks * 2 → Drink Maker * 1](../.gitbook/assets/drink_maker_recipe.png)
 
 ## How to interact
 

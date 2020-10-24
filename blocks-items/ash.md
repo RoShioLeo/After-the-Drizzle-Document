@@ -7,7 +7,7 @@ you will get Ash items.
 
 It can accelerate plants and crops' growing, just like the vanilla Bone Meals do.
 
-![Ash(or plant ash)](../.gitbook/assets/blocks-items/ash.png)
+![Ash(or plant ash)](../.gitbook/assets/ash.png)
 
 ## How to get
 

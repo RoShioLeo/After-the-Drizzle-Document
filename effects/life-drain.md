@@ -6,7 +6,7 @@
 
 With this effect, you have a chance to drain health from what you deal damaged to.
 
-![Icon of Life Drain effect](../.gitbook/assets/effects/life_drain.png)
+![Icon of Life Drain effect](../.gitbook/assets/life_drain.png)
 
 ## Description
 

@@ -8,7 +8,7 @@ There are 3 variants of Tea Leaves at present.
 
 ## Variants of Tea Leaves
 
-![All types of Tea Leaves now](../.gitbook/assets/blocks-items/tea_leaves.png)
+![All types of Tea Leaves now](../.gitbook/assets/tea_leaves.png)
 
 - Green Tea Leaves
 

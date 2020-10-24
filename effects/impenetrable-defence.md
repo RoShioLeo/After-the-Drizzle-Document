@@ -6,4 +6,4 @@
 
 When you have this effect, you cannot deal damage, while you cannot be demaged.
 
-![Icon of Impenetrable Defence effect](../.gitbook/assets/effects/defence.png)
+![Icon of Impenetrable Defence effect](../.gitbook/assets/defence.png)

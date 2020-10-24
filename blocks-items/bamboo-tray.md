@@ -7,11 +7,11 @@ Bamboo Tray is a utility block used for producing many useful items.
 
 It has 5 different modes, each mode has its own recipes.
 
-![Bamboo Tray](../.gitbook/assets/blocks-items/bamboo_tray.png)
+![Bamboo Tray](../.gitbook/assets/bamboo_tray.png)
 
 ## How to craft
 
-![Bamboo * 4 + Bamboo Planks * 1 → Bamboo Tray * 1](../.gitbook/assets/recipes/bamboo_tray_recipe.png)
+![Bamboo * 4 + Bamboo Planks * 1 → Bamboo Tray * 1](../.gitbook/assets/bamboo_tray_recipe.png)
 
 ## How to interact
 
@@ -39,7 +39,7 @@ Bamboo Tray has 5 different modes, you may switch from one to another to do the 
 
 They are **Outdoor Mode**,**Indoor Mode**, **Bake Mode**, **Process Mode**, and**In-rain Mode**.
 
-### ![](../.gitbook/assets/descriptions/outdoor_mode.png) Outdoor Mode
+### ![](../.gitbook/assets/outdoor_mode.png) Outdoor Mode
 
 If a Bamboo Tray is put at a place where sky can be seen, and it is not in Bake Mode, Process Mode, and In-rain Mode,
 
@@ -49,7 +49,7 @@ Time amount that the drying recipe taken is decided by the Humid of the place.
 
 The drying recipe still proceeds at night, but will stop when it is rain.
 
-### ![](../.gitbook/assets/descriptions/indoor_mode.png) Indoor Mode
+### ![](../.gitbook/assets/indoor_mode.png) Indoor Mode
 
 Place the Bamboo Tray under a intransparent block which can block the sunlight, 
 
@@ -59,18 +59,18 @@ then the Bamboo Tray will be switched the Bamboo Tray to the Indoor Mode.
 
 The amount of time fermentation takes is decided by the Humid of that area.
 
-### ![](../.gitbook/assets/descriptions/bake_mode.png) Bake Mode
+### ![](../.gitbook/assets/bake_mode.png) Bake Mode
 
 Put Bamboo Tray on a lit Stove, and it will be switched to Bake Mode.
 
-### ![](../.gitbook/assets/descriptions/process_mode.png) Process Mode (WIP)
+### ![](../.gitbook/assets/process_mode.png) Process Mode (WIP)
 
 Put Bamboo Tray on a Wooden Frame, and it will be switched to Process Mode.
 
 After you put some items into the tray, you can process them by right-clicking the tray with the corresponding item in your hand.
 
 Now this mode is of no use for it is still under developing.
-### ![](../.gitbook/assets/descriptions/in-rain_mode.png) In-rain Mode
+### ![](../.gitbook/assets/in-rain_mode.png) In-rain Mode
 
 Put the Bamboo Tray in the rain and it will be switched into the In-rain Mode.
 

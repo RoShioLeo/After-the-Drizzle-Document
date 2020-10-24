@@ -4,11 +4,11 @@
 
 **Filter Screen** is a utility block used for filtering certain types of items as you want.
 
-![Filter Screen](../.gitbook/assets/blocks-items/filter_screen.png)
+![Filter Screen](../.gitbook/assets/filter_screen.png)
 
 ## How to craft
 
-![Sticks * 4 + Strings * 4 + Redstone Dust * 1 → Filter Screen * 1](../.gitbook/assets/recipes/filter_screen_recipe.png)
+![Sticks * 4 + Strings * 4 + Redstone Dust * 1 → Filter Screen * 1](../.gitbook/assets/filter_screen_recipe.png)
 
 ## How to use
 
@@ -20,6 +20,6 @@ The container on the Filter Screen acts as a whitelist.
 
 If multiple Filter Screens stack vertically, they will use the nearest container which is above them as whitelist.
 
-  ![A simple filter. The types of items being able to pass is decided by the containers above the Filter Screen](../.gitbook/assets/descriptions/filter_screen.png)
+  ![A simple filter. The types of items being able to pass is decided by the containers above the Filter Screen](../.gitbook/assets/filter_screen.png)
 
 - Filter Screen only stops drop item entities, other types of entities can go through it easily.

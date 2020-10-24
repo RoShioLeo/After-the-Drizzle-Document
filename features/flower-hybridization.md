@@ -19,13 +19,13 @@ Each AtD Mod's flower can be crafted into 2 corresponding dyes.
     - Temperature：~ Warm；
     - Humid：Dry ~ Moist
 
-![Naturally Generated Flowers](../.gitbook/assets/blocks-items/flowers.png)
+![Naturally Generated Flowers](../.gitbook/assets/flowers.png)
 
 ## Hybridization Mechanic
 
 - Each type of flower has 16 colors. Only white, red, yellow and blue ones will naturally generated.
 
- ![All Flowers](../.gitbook/assets/descriptions/flowers.png)
+ ![All Flowers](../.gitbook/assets/flowers.png)
 
 - Hybridize 2 flowers with the same color, or any flower with itself, will get a flower with the same color.
 

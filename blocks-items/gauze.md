@@ -2,11 +2,11 @@
 
 **Gauze** is an item, which you can craft with armor and provide those pieces of armor with heat protection function.
 
-![Gauze](../.gitbook/assets/blocks-items/gauze.png)
+![Gauze](../.gitbook/assets/gauze.png)
 
 ## How to craft
 
-![String * 7 → Gauze * 1](../.gitbook/assets/recipes/gauze_recipe.png)
+![String * 7 → Gauze * 1](../.gitbook/assets/gauze_recipe.png)
 
 ## How to use
 

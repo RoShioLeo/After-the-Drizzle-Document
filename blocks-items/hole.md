@@ -2,7 +2,7 @@
 
 **Hole** is a block generated naturally. Digging them will get some items.
 
-![Hole](../.gitbook/assets/blocks-items/hole.png)
+![Hole](../.gitbook/assets/hole.png)
 
 ## What is it
 

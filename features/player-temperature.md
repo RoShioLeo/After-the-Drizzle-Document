@@ -18,7 +18,7 @@ is divided into 6 levels which is the same as the [Temperature System](humid.md)
 
 and is calculated from the environmental temperature and humid.
 
-![Icons of all levels of PAT](../.gitbook/assets/descriptions/temperature.png)
+![Icons of all levels of PAT](../.gitbook/assets/temperature.png)
 
 ## Description(For 0.1.20-Beta-1.14.4 version and newer)
 

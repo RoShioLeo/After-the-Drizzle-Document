@@ -2,7 +2,7 @@
 
 **Tea Residue** is an item from tea-making. Its only usage is composting.
 
-![Tea Residue](../.gitbook/assets/blocks-items/tea_residues.png)
+![Tea Residue](../.gitbook/assets/tea_residues.png)
 
 ## How to get
 Making tea, or letting Tea Leaves be in a Bamboo Tray which is in In-Rain Mode, will produce Tea Residue.

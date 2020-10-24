@@ -4,13 +4,13 @@
 
 Now there are 2 variants of Stoves, **Dirt Stove** and **Stone Stove**.
 
-![Dirt Stove and Stone Stove](../.gitbook/assets/blocks-items/stove.png)
+![Dirt Stove and Stone Stove](../.gitbook/assets/stove.png)
 
 ## How to craft
 
-![Any Dirts * 8 → Dirt Stove * 1](../.gitbook/assets/recipes/dirt_stove_recipe.png)
+![Any Dirts * 8 → Dirt Stove * 1](../.gitbook/assets/dirt_stove_recipe.png)
 
-![Cobblestones * 8 + Dirt Stove * 1 → Stone Stove * 1](../.gitbook/assets/recipes/stone_stove_recipe.png)
+![Cobblestones * 8 + Dirt Stove * 1 → Stone Stove * 1](../.gitbook/assets/stone_stove_recipe.png)
 
 ## How to interact
 You will mainly interact with Stoves via right-clicking.

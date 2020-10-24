@@ -8,7 +8,7 @@ With this effect, when you are in a position that light level is higher than a c
 
 you will restore 1 point of health every 3 seconds.
 
-![Icon of Photosynthesis effect](../.gitbook/assets/effects/photosynthesis.png)
+![Icon of Photosynthesis effect](../.gitbook/assets/photosynthesis.png)
 
 ## Description
 

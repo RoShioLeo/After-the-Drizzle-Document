@@ -2,11 +2,11 @@
 
 **Porcelain Teapot** is a block which can contain 1000mB(1 Bucket) fluid.
 
-![Clay and Porcelain Teapots](../.gitbook/assets/blocks-items/porcelain_teapot.png)
+![Clay and Porcelain Teapots](../.gitbook/assets/porcelain_teapot.png)
 
 ## How to craft
 
-![Clay Blocks * 3 → Clay Teapot * 1](../.gitbook/assets/recipes/clay_teapot_recipe.png)
+![Clay Blocks * 3 → Clay Teapot * 1](../.gitbook/assets/clay_teapot_recipe.png)
 
 ## How to use
 

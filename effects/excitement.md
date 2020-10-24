@@ -6,4 +6,4 @@ Now its effect is:
 
 Prevent you from sleeping, but give you 1 point of cold resistant.
 
-![Icon of Excitement effect](../.gitbook/assets/effects/excitement.png)
+![Icon of Excitement effect](../.gitbook/assets/excitement.png)

@@ -8,7 +8,7 @@ including explosion, melee or ranged attack, other potion effects, and void dama
 
 you have a chance to escape the damage.
 
-![Icon of Agility effect](../.gitbook/assets/effects/agility.png)
+![Icon of Agility effect](../.gitbook/assets/agility.png)
 
 ## Description
 

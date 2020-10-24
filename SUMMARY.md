@@ -35,11 +35,11 @@
 
 ## Potion Effects <a id="effects"></a>
 
-* [Agility](effects/agility.md)
-* [Life Drain](effects/life-drain.md)
-* [Impenetrable Defence](effects/impenetrable-defence.md)
-* [Photosynthesis](effects/photosynthesis.md)
-* [Excitement](effects/excitement.md)
+* [Agility](agility.md)
+* [Life Drain](life-drain.md)
+* [Impenetrable Defence](impenetrable-defence.md)
+* [Photosynthesis](photosynthesis.md)
+* [Excitement](excitement.md)
 
 ## Mechanics and Gameplay <a id="features"></a>
 

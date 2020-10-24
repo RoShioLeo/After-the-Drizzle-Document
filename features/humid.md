@@ -2,7 +2,7 @@
 
 **Environment System** is a Vanilla-Minecraft-based mechanic, which influences many aspects of your survival gameplay.
 
-![Thermometer, Rain Gauge ,and Hygrometer](../.gitbook/assets/blocks-items/environment.png)
+![Thermometer, Rain Gauge ,and Hygrometer](../.gitbook/assets/environment.png)
 
 ## Temperature
 
@@ -79,8 +79,8 @@ Most environmental mechanics is related to the Humid system.
 
 ## How to craft related tools
 
-![Glass * 7 + Water Bucket * 1 → Thermometer * 1](../.gitbook/assets/recipes/thermometer_recipe.png)
+![Glass * 7 + Water Bucket * 1 → Thermometer * 1](../.gitbook/assets/thermometer_recipe.png)
 
-![Glass * 6 + Bucket * 1 → Rain Gauge * 1](../.gitbook/assets/recipes/rain_gauge_recipe.png)
+![Glass * 6 + Bucket * 1 → Rain Gauge * 1](../.gitbook/assets/rain_gauge_recipe.png)
 
-![Thermometer * 1 + Rain Gauge * 1 → Hygrometer * 1](../.gitbook/assets/recipes/hygrometer_recipe.png)
+![Thermometer * 1 + Rain Gauge * 1 → Hygrometer * 1](../.gitbook/assets/hygrometer_recipe.png)
