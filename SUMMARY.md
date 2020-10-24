@@ -54,5 +54,7 @@
 
 * [Temperature, Precipitation, and Humid Systems](features/humid.md)
 * [Apparent Temperature System](features/player-temperature.md)
+* [24 Solar Terms & Seasons](features/solar-terms.md)
+* Weather System
 * [Crops Growing System](features/crops.md)
 * [Flower Hybridization](features/flower-hybridization.md)

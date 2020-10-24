@@ -8,8 +8,6 @@ description: Welcome to English wiki of Minecraft Mod After the Drizzle!
 
 This is the [Official English wiki](https://roitoleonine.gitbook.io/after-the-drizzle-wiki/v/English/) for Minecraft mod **_After the Drizzle_ (AtD in short, "细雨田园" in Chinese)**.
 
-This mod is in Alpha developing.
-
 This mod is developed by Lemon Slice Studio with heart. ([GitHub Repository](https://github.com/lemon-slice-studio/After-the-Drizzle))
 
 **Authors**：RoitoLeonine ([GitHub](https://github.com/RoitoLeonine)), Gloridifice ([GitHub](https://github.com/gloridifice)), MalayP
@@ -126,6 +124,8 @@ Or [Discord](https://discord.gg/xeV3HcJ).
   * Thermometers
   * Rain Gauges
   * Hygrometers
+- [24 Solar Terms & Seasons](features/solar-terms.md)
+- Weather System
 * [Apparent Temperature System](features/player-temperature.md)
 * [Crops Growing System](features/crops.md)
 * [Flower Hybridization](features/flower-hybridization.md)
