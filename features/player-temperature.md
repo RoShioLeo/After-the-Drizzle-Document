@@ -1,6 +1,6 @@
 # Apparent Temperature System
 
-> Now this system is WIP, and it might can not work perfectly!
+> This chapter is only valid for version 1.0.7-beta or later.
 
 **Apparent Temperature System** is a mechanic added by the *After the Drizzle* Mod,
 
@@ -8,83 +8,77 @@ which is based on the Environmental System, and influences your survival gamepla
 
 ## What is that
 
-**Player's Apparent Temperature**, or **PAT** in short, 
+**Player's Apparent Temperature**, or **Player-Temp** in short, 
 
-is divided into 6 levels which is the same as the [Temperature System](humid.md), and is updated per 2.5 seconds.
+is divided into 6 levels which is the same as the [Temperature System](humid.md), and is updated per 2.5 seconds normally, or per 7.5 seconds in an extreme environment.
 
-**Environmental Apparent Temperature**, or **EAT** in short, 
+**Environmental Apparent Temperature**, or **Env-Temp** in short, 
 
 is divided into 6 levels which is the same as the [Temperature System](humid.md), 
 
 and is calculated from the environmental temperature and humid.
 
-![Icons of all levels of PAT](../.gitbook/assets/temperature.png)
+![Icons of all levels of Player-Temp](../.gitbook/assets/descriptions/temperature.png)
 
-## Description(For 0.1.20-Beta-1.14.4 version and newer)
+## Description
 
-> For older versions before 0.1.20-Beta-1.14.4, skip the contents below and go to the end.
+- **Player-Temp changes**：
 
-- PAT changes：
+  If you are in a position where Env-Temp is higher than yout current Player-Temp, your Player-Temp will rise, and vise versa.
 
-  If you are in a position where EAT is higher than yout current PAT, your PAT will rise, and vise versa.
-
-- Cold/Heat Resistance
-
-  For 0.1.20-Beta and newer version, Cold/Heat Resistance is added into the game.
+- **Cold/Heat Resistance**:
   
   Equipped with related items, you can survive in tougher environments (biomes).
 
   Each point of Cold/Heat Resistance gives you the ability to survive in 1 lower/higher temperature level.
   
-  In *After the Drizzle* Mod version 0.1.26-Beta and later, a player without armor will gain 1 point of Heat Resistance.
+  a player without armor will gain 1 point of Heat Resistance.
 
-- Fluids:
+- **Fluid Temperature**:
 
-  If you are in some fluid, EAT will be ignored, but use the temperature of the fluid instead.
+  If you are in some fluid, Env-Temp will be ignored, but use the temperature of the fluid instead.
 
-- Light:
+- **Light**:
 
-  The *lowest* EAT level of the position you are standing is related to the light level of that position,
+  The **lowest** Env-Temp level of the position you are standing is related to the light level of that position,
   
   as the table below shows:
 
-  | Light Level Range | Lowest EAT |
+  | Light Level Range | Lowest Env-Temp |
   |---------------|------------------|
   |         15         |          Hot         |
   |     11 ~ 14    |           Warm        |
   |      8 ~ 10     |           Cool         |
   
-  In *After the Drizzle* Mod version 0.1.26-Beta and later, 
-  
-  in a hot place, if you move to a shadowed position, your PAT will become lower.
+  in a hot place, if you move to a shadowed position, your Player-Temp will become lower.
 
-- Underground：
+- **Underground Env-Temp**：
 
   Only when you are in the Overworld will this feature be enabled.
   
   If you are at a position, where Y coordinate is lower than 45 and you cannot see the sky,
   
-  Your EAT will not be lower than Cool. But Thermometers will still show the EAT as if this rule did not exist.
+  Your Env-Temp will not be lower than Cool. But Thermometers will still show the Env-Temp as if this rule did not exist.
 
-- Daily highest and lowest temperatures
+- **Daily highest and lowest temperatures**:
 
   Daily lowest temperature comes at 3:00 (21000 ticks), while the highest temperature comes at 14:00 (8000 ticks)
 
-- Daily temperature fluctuation:
+- **Daily temperature fluctuation**:
 
-  The magnitude of temperature fluctuations in an area is decided by [Humid](humid.md) of that area.
+  The magnitude of temperature fluctuations in an area is decided by [Humid](humid.md) of the area.
   
   The greater the humidity, the smaller the magnitude is, and vice versa.
   
   If it is rain, daily magnitude of temperature fluctuations will decrease for 50%.
 
-  If you are in the rain, the Humid level will +1 when calculating your EAT.
+  If you are in the rain, the Humid level will +1 when calculating your Env-Temp.
   
   A dimension where is no daylight cycle, such as the Nether and the End, will not see the temperature fluctuation.
 
-- Too high or too low PAT will bring you debuffs.
+- Too high or too low Player-Temp will bring you debuffs.
 
-  | PAT | Debuff ( Version 0.1.27 or later) |
+  | Player-Temp | Debuff |
   |----------|-----------|
   |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get 4-point damaged per 4 second |
   |    Cold   | Hunger Ⅰ, Slowness Ⅰ |
@@ -94,34 +88,3 @@ and is calculated from the environmental temperature and humid.
   Fire Resistance potion effect can protect you from Hot and Heat debuffs.
 
   Damage dealt by Freezing and Heat temperature ignores armor.
-
-## Description for older version
-
-> Descriptions below is for 0.1.17c-Alpha-1.14.4 or older versions. If no special instructions to some feature, either the feature is the same as the newer version, or the feature is not added into the game yet.
-
-- Light:
-
-  If your position's Block Light Level is higher than 8, your EAT will not be lower than Warm.
-
-- Underground：
-
-  ~~Only when you are in the Overworld will this feature be enabled.~~ This rule is enabled in any dimension.
-  
-  If you are at a position, where Y coordinate is lower than 45 and you cannot see the sky,
-  
-  Your EAT will not be lower than Cool. But Thermometers will still show the EAT as if this rule did not exist.
-- Daily highest and lowest temperatures
-
-  Daily lowest temperature comes at 6:00 (0 tick), while the highest temperature comes at 14:00 (8000 ticks).
-
-
-- Too high or too low PAT will bring you debuffs.
-
-  | PAT | Debuff |
-  |----------|-----------|
-  |    Freezing   | Hunger Ⅱ, Slowness Ⅱ, and get cold damage |
-  |    Cold   | Hunger Ⅰ, Slowness Ⅰ |
-  |    Hot   | Nausea, Slowness Ⅰ |
-  |    Heat   | Nausea, Slowness Ⅱ, and get heatstroke damage |
-
-Fire Resistance potion effect can protect you from Hot and Heat debuffs.
